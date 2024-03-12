@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Test\Client\Client\main.cpp(47,14): warning C4101: 'i': unreferenced local variable
+D:\Test\Client\Client\main.cpp(47,9): warning C4101: 'ret': unreferenced local variable
+  Client.vcxproj -> D:\Test\Client\Debug\Client.exe

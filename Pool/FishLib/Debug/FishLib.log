@@ -1,0 +1,17 @@
+﻿  fish.cpp
+D:\Test\Pool\include\position.h(12,26): warning C4251: 'Position::dimensions': class 'std::vector<int,std::allocator<int>>' needs to have dll-interface to be used by clients of class 'Position'
+D:\Test\Pool\include\position.h(12): message : see declaration of 'std::vector<int,std::allocator<int>>'
+D:\Test\Pool\include\position.h(21,31): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Pool\src\fish.cpp(71,42): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+D:\Test\Pool\src\fish.cpp(119,23): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Pool\src\fish.cpp(123,23): warning C4018: '<': signed/unsigned mismatch
+  fishfactory.cpp
+D:\Test\Pool\include\position.h(12,26): warning C4251: 'Position::dimensions': class 'std::vector<int,std::allocator<int>>' needs to have dll-interface to be used by clients of class 'Position'
+D:\Test\Pool\include\position.h(12): message : see declaration of 'std::vector<int,std::allocator<int>>'
+D:\Test\Pool\include\position.h(21,31): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Pool\include\fishfactory.h(12,25): warning C4251: 'FishFactory::IllegalPos_': class 'std::vector<Position,std::allocator<Position>>' needs to have dll-interface to be used by clients of class 'FishFactory'
+D:\Test\Pool\include\fish.h(30): message : see declaration of 'std::vector<Position,std::allocator<Position>>'
+D:\Test\Pool\src\fishfactory.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+     Creating library D:\Test\Pool\Debug\FishLib.lib and object D:\Test\Pool\Debug\FishLib.exp
+  FishLib.vcxproj -> D:\Test\Pool\Debug\FishLib.dll

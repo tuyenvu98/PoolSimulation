@@ -1,0 +1,13 @@
+﻿  catfish.cpp
+D:\Test\Pool\include\position.h(12,26): warning C4251: 'Position::dimensions': class 'std::vector<int,std::allocator<int>>' needs to have dll-interface to be used by clients of class 'Position'
+D:\Test\Pool\include\position.h(12): message : see declaration of 'std::vector<int,std::allocator<int>>'
+D:\Test\Pool\include\position.h(21,31): warning C4018: '<': signed/unsigned mismatch
+  catfishfactory.cpp
+D:\Test\Pool\include\position.h(12,26): warning C4251: 'Position::dimensions': class 'std::vector<int,std::allocator<int>>' needs to have dll-interface to be used by clients of class 'Position'
+D:\Test\Pool\include\position.h(12): message : see declaration of 'std::vector<int,std::allocator<int>>'
+D:\Test\Pool\include\position.h(21,31): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Pool\include\fishfactory.h(12,25): warning C4251: 'FishFactory::IllegalPos_': class 'std::vector<Position,std::allocator<Position>>' needs to have dll-interface to be used by clients of class 'FishFactory'
+D:\Test\Pool\include\fish.h(30): message : see declaration of 'std::vector<Position,std::allocator<Position>>'
+  Generating Code...
+     Creating library D:\Test\Pool\Debug\CatFish.lib and object D:\Test\Pool\Debug\CatFish.exp
+  CatFish.vcxproj -> D:\Test\Pool\Debug\CatFish.dll

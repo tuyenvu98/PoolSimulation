@@ -1,0 +1,19 @@
+﻿  main.cpp
+D:\Test\Pool\include\position.h(12,26): warning C4251: 'Position::dimensions': class 'std::vector<int,std::allocator<int>>' needs to have dll-interface to be used by clients of class 'Position'
+D:\Test\Pool\include\position.h(12): message : see declaration of 'std::vector<int,std::allocator<int>>'
+D:\Test\Pool\include\position.h(21,31): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Pool\include\fishfactory.h(12,25): warning C4251: 'FishFactory::IllegalPos_': class 'std::vector<Position,std::allocator<Position>>' needs to have dll-interface to be used by clients of class 'FishFactory'
+D:\Test\Pool\include\fish.h(30): message : see declaration of 'std::vector<Position,std::allocator<Position>>'
+D:\Test\Pool\Pool\main.cpp(130,23): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Pool\Pool\main.cpp(161,23): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Pool\Pool\main.cpp(470,27): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Pool\Pool\main.cpp(107): warning C4715: 'getD': not all control paths return a value
+  Pool.vcxproj -> D:\Test\Pool\Debug\Pool.exe
+  A subdirectory or file D:\Test\Pool\Debug\\config\ already exists.
+  D:\Test\Pool\config\catfish.txt
+  D:\Test\Pool\config\config.txt
+  D:\Test\Pool\config\config3D.txt
+  D:\Test\Pool\config\dimension.txt
+  D:\Test\Pool\config\shark.txt
+  D:\Test\Pool\config\swordfish.txt
+          6 file(s) copied.

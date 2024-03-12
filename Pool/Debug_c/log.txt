@@ -1,0 +1,2303 @@
+----------------------------Start loading pool config----------------------------
+Created pool successfully
+----------------------------Start loading types of fishes----------------------------
+- Loaded 3 types of fishes.
+CatFish , Shark , SwordFish , 
+Please enter the number of each type you want to put into the pool :
+CatFish : Shark : SwordFish : ---------------------------------------------------------------
+Fishes : 90
+CatFish with Pos :19,6, and  strength: 500
+CatFish with Pos :11,2, and  strength: 500
+CatFish with Pos :18,2, and  strength: 500
+CatFish with Pos :14,2, and  strength: 500
+CatFish with Pos :10,7, and  strength: 500
+CatFish with Pos :13,8, and  strength: 500
+CatFish with Pos :10,1, and  strength: 500
+CatFish with Pos :19,4, and  strength: 500
+CatFish with Pos :16,2, and  strength: 500
+CatFish with Pos :16,8, and  strength: 500
+CatFish with Pos :19,3, and  strength: 500
+CatFish with Pos :10,4, and  strength: 500
+CatFish with Pos :18,7, and  strength: 500
+CatFish with Pos :16,6, and  strength: 500
+CatFish with Pos :11,9, and  strength: 500
+CatFish with Pos :10,1, and  strength: 500
+CatFish with Pos :12,4, and  strength: 500
+CatFish with Pos :10,8, and  strength: 500
+CatFish with Pos :13,2, and  strength: 500
+CatFish with Pos :19,6, and  strength: 500
+CatFish with Pos :13,7, and  strength: 500
+CatFish with Pos :11,2, and  strength: 500
+CatFish with Pos :11,3, and  strength: 500
+CatFish with Pos :19,9, and  strength: 500
+CatFish with Pos :15,2, and  strength: 500
+CatFish with Pos :18,9, and  strength: 500
+CatFish with Pos :14,7, and  strength: 500
+CatFish with Pos :15,2, and  strength: 500
+CatFish with Pos :11,4, and  strength: 500
+CatFish with Pos :19,5, and  strength: 500
+Shark with Pos :14,2, and  strength: 1000
+Shark with Pos :14,5, and  strength: 1000
+Shark with Pos :12,9, and  strength: 1000
+Shark with Pos :17,6, and  strength: 1000
+Shark with Pos :14,9, and  strength: 1000
+Shark with Pos :10,1, and  strength: 1000
+Shark with Pos :18,8, and  strength: 1000
+Shark with Pos :15,4, and  strength: 1000
+Shark with Pos :18,1, and  strength: 1000
+Shark with Pos :10,6, and  strength: 1000
+Shark with Pos :11,4, and  strength: 1000
+Shark with Pos :14,9, and  strength: 1000
+Shark with Pos :16,8, and  strength: 1000
+Shark with Pos :16,2, and  strength: 1000
+Shark with Pos :16,8, and  strength: 1000
+Shark with Pos :11,7, and  strength: 1000
+Shark with Pos :14,9, and  strength: 1000
+Shark with Pos :15,1, and  strength: 1000
+Shark with Pos :16,7, and  strength: 1000
+Shark with Pos :10,1, and  strength: 1000
+Shark with Pos :18,9, and  strength: 1000
+Shark with Pos :18,7, and  strength: 1000
+Shark with Pos :14,5, and  strength: 1000
+Shark with Pos :11,8, and  strength: 1000
+Shark with Pos :14,3, and  strength: 1000
+Shark with Pos :15,6, and  strength: 1000
+Shark with Pos :11,7, and  strength: 1000
+Shark with Pos :16,8, and  strength: 1000
+Shark with Pos :11,9, and  strength: 1000
+Shark with Pos :11,9, and  strength: 1000
+SwordFish with Pos :14,8, and  strength: 300
+SwordFish with Pos :14,9, and  strength: 300
+SwordFish with Pos :19,3, and  strength: 300
+SwordFish with Pos :16,5, and  strength: 300
+SwordFish with Pos :17,2, and  strength: 300
+SwordFish with Pos :12,3, and  strength: 300
+SwordFish with Pos :19,1, and  strength: 300
+SwordFish with Pos :18,8, and  strength: 300
+SwordFish with Pos :12,6, and  strength: 300
+SwordFish with Pos :15,6, and  strength: 300
+SwordFish with Pos :17,8, and  strength: 300
+SwordFish with Pos :13,4, and  strength: 300
+SwordFish with Pos :14,9, and  strength: 300
+SwordFish with Pos :12,1, and  strength: 300
+SwordFish with Pos :18,2, and  strength: 300
+SwordFish with Pos :16,4, and  strength: 300
+SwordFish with Pos :11,8, and  strength: 300
+SwordFish with Pos :13,2, and  strength: 300
+SwordFish with Pos :11,2, and  strength: 300
+SwordFish with Pos :13,4, and  strength: 300
+SwordFish with Pos :15,6, and  strength: 300
+SwordFish with Pos :10,6, and  strength: 300
+SwordFish with Pos :18,3, and  strength: 300
+SwordFish with Pos :13,6, and  strength: 300
+SwordFish with Pos :19,6, and  strength: 300
+SwordFish with Pos :11,3, and  strength: 300
+SwordFish with Pos :19,8, and  strength: 300
+SwordFish with Pos :19,4, and  strength: 300
+SwordFish with Pos :19,7, and  strength: 300
+SwordFish with Pos :13,8, and  strength: 300
+---------------------------------------------------------------
+Shark ate Shark
+Shark ate Shark
+Shark ate Shark
+Shark ate SwordFish
+Shark ate SwordFish
+Shark ate Shark
+Shark ate CatFish
+Shark ate CatFish
+Shark ate SwordFish
+Shark ate SwordFish
+Shark ate CatFish
+Shark ate Shark
+Shark ate Shark
+Shark ate Shark
+Shark ate CatFish
+Shark ate CatFish
+Shark ate CatFish
+Shark ate CatFish
+Shark ate CatFish
+Shark ate SwordFish
+Shark ate SwordFish
+Shark ate SwordFish
+Shark ate Shark
+Shark ate CatFish
+CatFish ate SwordFish
+CatFish ate CatFish
+CatFish ate SwordFish
+CatFish ate CatFish
+CatFish ate SwordFish
+CatFish ate SwordFish
+CatFish ate CatFish
+CatFish ate SwordFish
+CatFish ate SwordFish
+CatFish ate SwordFish
+CatFish ate SwordFish
+SwordFish ate SwordFish
+---------------------------------------------------------------
+Fishes : 54
+Shark with Pos :14,5, and  strength: 1940
+Shark with Pos :12,9, and  strength: 970
+Shark with Pos :17,6, and  strength: 970
+Shark with Pos :14,9, and  strength: 3504
+Shark with Pos :10,1, and  strength: 2920
+Shark with Pos :18,8, and  strength: 1267
+Shark with Pos :15,4, and  strength: 970
+Shark with Pos :18,1, and  strength: 970
+Shark with Pos :10,6, and  strength: 1267
+Shark with Pos :11,4, and  strength: 1460
+Shark with Pos :11,7, and  strength: 1940
+Shark with Pos :16,8, and  strength: 3400
+Shark with Pos :16,2, and  strength: 1460
+Shark with Pos :14,2, and  strength: 1460
+Shark with Pos :15,1, and  strength: 970
+Shark with Pos :16,7, and  strength: 970
+Shark with Pos :18,9, and  strength: 1460
+Shark with Pos :18,7, and  strength: 1460
+Shark with Pos :11,8, and  strength: 1267
+Shark with Pos :14,3, and  strength: 970
+Shark with Pos :15,6, and  strength: 1564
+Shark with Pos :11,9, and  strength: 2430
+CatFish with Pos :12,4, and  strength: 490
+CatFish with Pos :10,8, and  strength: 490
+CatFish with Pos :13,2, and  strength: 787
+CatFish with Pos :19,6, and  strength: 1277
+CatFish with Pos :13,7, and  strength: 490
+CatFish with Pos :11,2, and  strength: 1277
+CatFish with Pos :11,3, and  strength: 787
+CatFish with Pos :19,9, and  strength: 490
+CatFish with Pos :15,2, and  strength: 980
+CatFish with Pos :14,7, and  strength: 490
+CatFish with Pos :19,5, and  strength: 490
+CatFish with Pos :10,4, and  strength: 490
+CatFish with Pos :18,2, and  strength: 787
+CatFish with Pos :10,7, and  strength: 490
+CatFish with Pos :13,8, and  strength: 787
+CatFish with Pos :19,4, and  strength: 787
+CatFish with Pos :19,3, and  strength: 787
+CatFish with Pos :16,6, and  strength: 490
+SwordFish with Pos :14,8, and  strength: 297
+SwordFish with Pos :16,5, and  strength: 297
+SwordFish with Pos :17,2, and  strength: 297
+SwordFish with Pos :12,3, and  strength: 297
+SwordFish with Pos :19,1, and  strength: 297
+SwordFish with Pos :12,6, and  strength: 297
+SwordFish with Pos :17,8, and  strength: 297
+SwordFish with Pos :13,4, and  strength: 594
+SwordFish with Pos :12,1, and  strength: 297
+SwordFish with Pos :16,4, and  strength: 297
+SwordFish with Pos :18,3, and  strength: 297
+SwordFish with Pos :13,6, and  strength: 297
+SwordFish with Pos :19,8, and  strength: 297
+SwordFish with Pos :19,7, and  strength: 297
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 54
+Shark with Pos :14,9, and  strength: 3474
+Shark with Pos :16,8, and  strength: 3370
+Shark with Pos :10,1, and  strength: 2890
+Shark with Pos :11,9, and  strength: 2400
+Shark with Pos :14,5, and  strength: 1910
+Shark with Pos :11,7, and  strength: 1910
+Shark with Pos :15,6, and  strength: 1534
+Shark with Pos :18,7, and  strength: 1430
+Shark with Pos :14,2, and  strength: 1430
+Shark with Pos :16,2, and  strength: 1430
+Shark with Pos :18,9, and  strength: 1430
+Shark with Pos :11,4, and  strength: 1430
+CatFish with Pos :11,2, and  strength: 1267
+CatFish with Pos :19,6, and  strength: 1267
+Shark with Pos :18,8, and  strength: 1237
+Shark with Pos :10,6, and  strength: 1237
+Shark with Pos :11,8, and  strength: 1237
+CatFish with Pos :15,2, and  strength: 970
+Shark with Pos :12,9, and  strength: 940
+Shark with Pos :17,6, and  strength: 940
+Shark with Pos :18,1, and  strength: 940
+Shark with Pos :15,4, and  strength: 940
+Shark with Pos :15,1, and  strength: 940
+Shark with Pos :16,7, and  strength: 940
+Shark with Pos :14,3, and  strength: 940
+CatFish with Pos :13,8, and  strength: 777
+CatFish with Pos :19,4, and  strength: 777
+CatFish with Pos :13,2, and  strength: 777
+CatFish with Pos :19,3, and  strength: 777
+CatFish with Pos :11,3, and  strength: 777
+CatFish with Pos :18,2, and  strength: 777
+SwordFish with Pos :13,4, and  strength: 591
+CatFish with Pos :12,4, and  strength: 480
+CatFish with Pos :10,8, and  strength: 480
+CatFish with Pos :13,7, and  strength: 480
+CatFish with Pos :19,9, and  strength: 480
+CatFish with Pos :14,7, and  strength: 480
+CatFish with Pos :19,5, and  strength: 480
+CatFish with Pos :10,4, and  strength: 480
+CatFish with Pos :10,7, and  strength: 480
+CatFish with Pos :16,6, and  strength: 480
+SwordFish with Pos :14,8, and  strength: 294
+SwordFish with Pos :17,2, and  strength: 294
+SwordFish with Pos :12,3, and  strength: 294
+SwordFish with Pos :19,1, and  strength: 294
+SwordFish with Pos :12,6, and  strength: 294
+SwordFish with Pos :17,8, and  strength: 294
+SwordFish with Pos :16,5, and  strength: 294
+SwordFish with Pos :12,1, and  strength: 294
+SwordFish with Pos :16,4, and  strength: 294
+SwordFish with Pos :18,3, and  strength: 294
+SwordFish with Pos :13,6, and  strength: 294
+SwordFish with Pos :19,8, and  strength: 294
+SwordFish with Pos :19,7, and  strength: 294
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 54
+Shark with Pos :14,9, and  strength: 3444
+Shark with Pos :16,8, and  strength: 3340
+Shark with Pos :10,1, and  strength: 2860
+Shark with Pos :11,9, and  strength: 2370
+Shark with Pos :14,5, and  strength: 1880
+Shark with Pos :11,7, and  strength: 1880
+Shark with Pos :15,6, and  strength: 1504
+Shark with Pos :18,7, and  strength: 1400
+Shark with Pos :14,2, and  strength: 1400
+Shark with Pos :16,2, and  strength: 1400
+Shark with Pos :18,9, and  strength: 1400
+Shark with Pos :11,4, and  strength: 1400
+CatFish with Pos :11,2, and  strength: 1257
+CatFish with Pos :19,6, and  strength: 1257
+Shark with Pos :18,8, and  strength: 1207
+Shark with Pos :10,6, and  strength: 1207
+Shark with Pos :11,8, and  strength: 1207
+CatFish with Pos :15,2, and  strength: 960
+Shark with Pos :12,9, and  strength: 910
+Shark with Pos :17,6, and  strength: 910
+Shark with Pos :18,1, and  strength: 910
+Shark with Pos :15,4, and  strength: 910
+Shark with Pos :15,1, and  strength: 910
+Shark with Pos :16,7, and  strength: 910
+Shark with Pos :14,3, and  strength: 910
+CatFish with Pos :13,8, and  strength: 767
+CatFish with Pos :19,4, and  strength: 767
+CatFish with Pos :13,2, and  strength: 767
+CatFish with Pos :19,3, and  strength: 767
+CatFish with Pos :11,3, and  strength: 767
+CatFish with Pos :18,2, and  strength: 767
+SwordFish with Pos :13,4, and  strength: 588
+CatFish with Pos :12,4, and  strength: 470
+CatFish with Pos :10,8, and  strength: 470
+CatFish with Pos :13,7, and  strength: 470
+CatFish with Pos :19,9, and  strength: 470
+CatFish with Pos :14,7, and  strength: 470
+CatFish with Pos :19,5, and  strength: 470
+CatFish with Pos :10,4, and  strength: 470
+CatFish with Pos :10,7, and  strength: 470
+CatFish with Pos :16,6, and  strength: 470
+SwordFish with Pos :14,8, and  strength: 291
+SwordFish with Pos :17,2, and  strength: 291
+SwordFish with Pos :12,3, and  strength: 291
+SwordFish with Pos :19,1, and  strength: 291
+SwordFish with Pos :12,6, and  strength: 291
+SwordFish with Pos :17,8, and  strength: 291
+SwordFish with Pos :16,5, and  strength: 291
+SwordFish with Pos :12,1, and  strength: 291
+SwordFish with Pos :16,4, and  strength: 291
+SwordFish with Pos :18,3, and  strength: 291
+SwordFish with Pos :13,6, and  strength: 291
+SwordFish with Pos :19,8, and  strength: 291
+SwordFish with Pos :19,7, and  strength: 291
+---------------------------------------------------------------
+Shark ate SwordFish
+CatFish ate SwordFish
+Shark ate SwordFish
+CatFish ate SwordFish
+CatFish ate SwordFish
+CatFish ate SwordFish
+---------------------------------------------------------------
+Fishes : 48
+Shark with Pos :14,9, and  strength: 3414
+Shark with Pos :16,8, and  strength: 3310
+Shark with Pos :10,1, and  strength: 2830
+Shark with Pos :11,9, and  strength: 2340
+Shark with Pos :14,5, and  strength: 1850
+Shark with Pos :11,7, and  strength: 2138
+Shark with Pos :15,6, and  strength: 1474
+Shark with Pos :18,7, and  strength: 1370
+Shark with Pos :14,2, and  strength: 1370
+Shark with Pos :16,2, and  strength: 1370
+Shark with Pos :18,9, and  strength: 1370
+Shark with Pos :11,4, and  strength: 1370
+CatFish with Pos :11,2, and  strength: 1247
+CatFish with Pos :19,6, and  strength: 1535
+Shark with Pos :18,8, and  strength: 1177
+Shark with Pos :10,6, and  strength: 1177
+Shark with Pos :11,8, and  strength: 1177
+CatFish with Pos :15,2, and  strength: 950
+Shark with Pos :12,9, and  strength: 880
+Shark with Pos :17,6, and  strength: 880
+Shark with Pos :18,1, and  strength: 1168
+Shark with Pos :15,4, and  strength: 880
+Shark with Pos :15,1, and  strength: 880
+Shark with Pos :16,7, and  strength: 880
+Shark with Pos :14,3, and  strength: 880
+CatFish with Pos :13,8, and  strength: 757
+CatFish with Pos :19,4, and  strength: 1045
+CatFish with Pos :13,2, and  strength: 1333
+CatFish with Pos :19,3, and  strength: 757
+CatFish with Pos :11,3, and  strength: 757
+CatFish with Pos :18,2, and  strength: 757
+SwordFish with Pos :13,4, and  strength: 585
+CatFish with Pos :12,4, and  strength: 460
+CatFish with Pos :10,8, and  strength: 460
+CatFish with Pos :13,7, and  strength: 460
+CatFish with Pos :19,9, and  strength: 460
+CatFish with Pos :14,7, and  strength: 460
+CatFish with Pos :19,5, and  strength: 460
+CatFish with Pos :10,4, and  strength: 460
+CatFish with Pos :10,7, and  strength: 460
+CatFish with Pos :16,6, and  strength: 460
+SwordFish with Pos :15,7, and  strength: 288
+SwordFish with Pos :18,3, and  strength: 288
+SwordFish with Pos :17,7, and  strength: 288
+SwordFish with Pos :16,4, and  strength: 288
+SwordFish with Pos :16,5, and  strength: 288
+SwordFish with Pos :12,6, and  strength: 288
+SwordFish with Pos :19,7, and  strength: 288
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 48
+Shark with Pos :14,9, and  strength: 3384
+Shark with Pos :16,8, and  strength: 3280
+Shark with Pos :10,1, and  strength: 2800
+Shark with Pos :11,9, and  strength: 2310
+Shark with Pos :11,7, and  strength: 2108
+Shark with Pos :14,5, and  strength: 1820
+CatFish with Pos :19,6, and  strength: 1525
+Shark with Pos :15,6, and  strength: 1444
+Shark with Pos :18,7, and  strength: 1340
+Shark with Pos :14,2, and  strength: 1340
+Shark with Pos :16,2, and  strength: 1340
+Shark with Pos :18,9, and  strength: 1340
+Shark with Pos :11,4, and  strength: 1340
+CatFish with Pos :13,2, and  strength: 1323
+CatFish with Pos :11,2, and  strength: 1237
+Shark with Pos :18,8, and  strength: 1147
+Shark with Pos :10,6, and  strength: 1147
+Shark with Pos :11,8, and  strength: 1147
+Shark with Pos :18,1, and  strength: 1138
+CatFish with Pos :19,4, and  strength: 1035
+CatFish with Pos :15,2, and  strength: 940
+Shark with Pos :15,4, and  strength: 850
+Shark with Pos :15,1, and  strength: 850
+Shark with Pos :16,7, and  strength: 850
+Shark with Pos :14,3, and  strength: 850
+Shark with Pos :12,9, and  strength: 850
+Shark with Pos :17,6, and  strength: 850
+CatFish with Pos :13,8, and  strength: 747
+CatFish with Pos :19,3, and  strength: 747
+CatFish with Pos :11,3, and  strength: 747
+CatFish with Pos :18,2, and  strength: 747
+SwordFish with Pos :13,4, and  strength: 582
+CatFish with Pos :12,4, and  strength: 450
+CatFish with Pos :10,8, and  strength: 450
+CatFish with Pos :13,7, and  strength: 450
+CatFish with Pos :19,9, and  strength: 450
+CatFish with Pos :14,7, and  strength: 450
+CatFish with Pos :19,5, and  strength: 450
+CatFish with Pos :10,4, and  strength: 450
+CatFish with Pos :10,7, and  strength: 450
+CatFish with Pos :16,6, and  strength: 450
+SwordFish with Pos :15,7, and  strength: 285
+SwordFish with Pos :18,3, and  strength: 285
+SwordFish with Pos :17,7, and  strength: 285
+SwordFish with Pos :16,4, and  strength: 285
+SwordFish with Pos :16,5, and  strength: 285
+SwordFish with Pos :12,6, and  strength: 285
+SwordFish with Pos :19,7, and  strength: 285
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 1147 10,6 9,5
+Shark ate SwordFish
+CatFish ate Shark
+Shark ate SwordFish
+Shark ate CatFish
+Shark ate CatFish
+CatFish ate CatFish
+CatFish ate SwordFish
+---------------------------------------------------------------
+Fishes : 40
+Shark with Pos :14,9, and  strength: 3354
+Shark with Pos :16,8, and  strength: 3532
+Shark with Pos :10,1, and  strength: 2770
+Shark with Pos :11,9, and  strength: 2280
+Shark with Pos :11,7, and  strength: 2078
+Shark with Pos :14,5, and  strength: 1790
+CatFish with Pos :18,7, and  strength: 2825
+Shark with Pos :15,6, and  strength: 1696
+CatFish with Pos :12,1, and  strength: 1313
+Shark with Pos :14,2, and  strength: 1310
+Shark with Pos :16,2, and  strength: 1310
+Shark with Pos :18,9, and  strength: 1310
+Shark with Pos :11,4, and  strength: 1310
+CatFish with Pos :11,1, and  strength: 1227
+Shark with Pos :18,8, and  strength: 1557
+Shark with Pos :11,8, and  strength: 1117
+Shark with Pos :18,1, and  strength: 1108
+CatFish with Pos :18,5, and  strength: 1025
+CatFish with Pos :15,2, and  strength: 930
+Shark with Pos :17,6, and  strength: 820
+Shark with Pos :15,4, and  strength: 820
+Shark with Pos :15,1, and  strength: 820
+Shark with Pos :16,7, and  strength: 820
+Shark with Pos :14,3, and  strength: 820
+Shark with Pos :12,9, and  strength: 1557
+CatFish with Pos :19,2, and  strength: 737
+CatFish with Pos :11,2, and  strength: 737
+CatFish with Pos :17,2, and  strength: 737
+SwordFish with Pos :13,3, and  strength: 579
+CatFish with Pos :12,4, and  strength: 440
+CatFish with Pos :10,8, and  strength: 880
+CatFish with Pos :12,7, and  strength: 440
+CatFish with Pos :13,7, and  strength: 440
+CatFish with Pos :18,6, and  strength: 440
+CatFish with Pos :10,5, and  strength: 440
+CatFish with Pos :15,5, and  strength: 722
+SwordFish with Pos :19,6, and  strength: 282
+SwordFish with Pos :18,4, and  strength: 282
+SwordFish with Pos :16,3, and  strength: 282
+SwordFish with Pos :13,6, and  strength: 282
+---------------------------------------------------------------
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+[1;31mRECEIVED:[0mShark 1147 10,6
+Fishes : 41
+Shark with Pos :16,8, and  strength: 3502
+Shark with Pos :14,9, and  strength: 3324
+CatFish with Pos :18,7, and  strength: 2815
+Shark with Pos :10,1, and  strength: 2740
+Shark with Pos :11,9, and  strength: 2250
+Shark with Pos :11,7, and  strength: 2048
+Shark with Pos :14,5, and  strength: 1760
+Shark with Pos :15,6, and  strength: 1666
+Shark with Pos :18,8, and  strength: 1527
+Shark with Pos :12,9, and  strength: 1527
+CatFish with Pos :12,1, and  strength: 1303
+Shark with Pos :14,2, and  strength: 1280
+Shark with Pos :16,2, and  strength: 1280
+Shark with Pos :18,9, and  strength: 1280
+Shark with Pos :11,4, and  strength: 1280
+CatFish with Pos :11,1, and  strength: 1217
+Shark with Pos :11,8, and  strength: 1087
+Shark with Pos :18,1, and  strength: 1078
+CatFish with Pos :18,5, and  strength: 1015
+CatFish with Pos :15,2, and  strength: 920
+CatFish with Pos :10,8, and  strength: 870
+Shark with Pos :15,1, and  strength: 790
+Shark with Pos :16,7, and  strength: 790
+Shark with Pos :14,3, and  strength: 790
+Shark with Pos :17,6, and  strength: 790
+Shark with Pos :15,4, and  strength: 790
+CatFish with Pos :11,2, and  strength: 727
+CatFish with Pos :17,2, and  strength: 727
+CatFish with Pos :19,2, and  strength: 727
+CatFish with Pos :15,5, and  strength: 712
+SwordFish with Pos :13,3, and  strength: 576
+CatFish with Pos :12,4, and  strength: 430
+CatFish with Pos :12,7, and  strength: 430
+CatFish with Pos :13,7, and  strength: 430
+CatFish with Pos :18,6, and  strength: 430
+CatFish with Pos :10,5, and  strength: 430
+SwordFish with Pos :19,6, and  strength: 279
+SwordFish with Pos :18,4, and  strength: 279
+SwordFish with Pos :16,3, and  strength: 279
+SwordFish with Pos :13,6, and  strength: 279
+Shark with Pos :10,6, and  strength: 1147
+---------------------------------------------------------------
+Shark ate SwordFish
+Shark ate SwordFish
+CatFish ate SwordFish
+CatFish ate SwordFish
+---------------------------------------------------------------
+Fishes : 37
+Shark with Pos :16,8, and  strength: 3472
+Shark with Pos :14,9, and  strength: 3294
+CatFish with Pos :18,7, and  strength: 2805
+Shark with Pos :10,1, and  strength: 2710
+Shark with Pos :11,9, and  strength: 2220
+Shark with Pos :11,7, and  strength: 2018
+Shark with Pos :14,5, and  strength: 1730
+Shark with Pos :15,6, and  strength: 1636
+Shark with Pos :18,8, and  strength: 1497
+Shark with Pos :12,9, and  strength: 1497
+CatFish with Pos :12,1, and  strength: 1293
+Shark with Pos :14,2, and  strength: 1250
+Shark with Pos :16,2, and  strength: 1526
+Shark with Pos :18,9, and  strength: 1250
+Shark with Pos :11,4, and  strength: 1250
+CatFish with Pos :11,1, and  strength: 1207
+Shark with Pos :10,6, and  strength: 1117
+Shark with Pos :11,8, and  strength: 1057
+Shark with Pos :18,1, and  strength: 1048
+CatFish with Pos :18,5, and  strength: 1005
+CatFish with Pos :15,2, and  strength: 910
+CatFish with Pos :10,8, and  strength: 860
+Shark with Pos :15,1, and  strength: 760
+Shark with Pos :16,7, and  strength: 760
+Shark with Pos :14,3, and  strength: 1333
+Shark with Pos :17,6, and  strength: 760
+Shark with Pos :15,4, and  strength: 760
+CatFish with Pos :11,2, and  strength: 717
+CatFish with Pos :17,2, and  strength: 717
+CatFish with Pos :19,2, and  strength: 717
+CatFish with Pos :15,5, and  strength: 702
+CatFish with Pos :12,4, and  strength: 420
+CatFish with Pos :12,7, and  strength: 696
+CatFish with Pos :13,7, and  strength: 420
+CatFish with Pos :18,6, and  strength: 696
+CatFish with Pos :10,5, and  strength: 420
+SwordFish with Pos :19,5, and  strength: 276
+---------------------------------------------------------------
+CatFish ate CatFish
+Shark ate CatFish
+Shark ate CatFish
+Shark ate CatFish
+CatFish ate SwordFish
+send failed with error: 10038
+Unable to connect to server! 
+---------------------------------------------------------------
+Fishes : 32
+Shark with Pos :16,8, and  strength: 3442
+Shark with Pos :14,9, and  strength: 3264
+CatFish with Pos :19,7, and  strength: 2795
+Shark with Pos :10,1, and  strength: 2680
+Shark with Pos :11,9, and  strength: 2190
+Shark with Pos :11,7, and  strength: 1988
+Shark with Pos :14,5, and  strength: 1700
+Shark with Pos :15,6, and  strength: 1606
+Shark with Pos :16,2, and  strength: 1496
+Shark with Pos :18,8, and  strength: 1467
+Shark with Pos :12,9, and  strength: 1467
+Shark with Pos :14,3, and  strength: 1303
+CatFish with Pos :13,1, and  strength: 1283
+Shark with Pos :14,2, and  strength: 1220
+Shark with Pos :18,9, and  strength: 1220
+Shark with Pos :11,4, and  strength: 1220
+CatFish with Pos :10,2, and  strength: 1904
+Shark with Pos :10,6, and  strength: 1497
+Shark with Pos :11,8, and  strength: 2563
+Shark with Pos :18,1, and  strength: 1018
+CatFish with Pos :19,6, and  strength: 995
+CatFish with Pos :15,2, and  strength: 900
+Shark with Pos :15,1, and  strength: 730
+Shark with Pos :16,7, and  strength: 730
+Shark with Pos :17,6, and  strength: 730
+Shark with Pos :15,4, and  strength: 730
+CatFish with Pos :17,1, and  strength: 707
+CatFish with Pos :19,1, and  strength: 707
+CatFish with Pos :14,4, and  strength: 692
+CatFish with Pos :19,5, and  strength: 959
+CatFish with Pos :11,5, and  strength: 410
+CatFish with Pos :12,6, and  strength: 410
+---------------------------------------------------------------
+Shark ate Shark
+CatFish ate Shark
+Shark ate CatFish
+send failed with error: 10038
+Unable to connect to server! 
+---------------------------------------------------------------
+Fishes : 29
+Shark with Pos :16,8, and  strength: 3412
+Shark with Pos :15,8, and  strength: 3934
+CatFish with Pos :19,7, and  strength: 4222
+Shark with Pos :11,2, and  strength: 2650
+Shark with Pos :10,9, and  strength: 2533
+Shark with Pos :10,8, and  strength: 2160
+Shark with Pos :11,7, and  strength: 1958
+CatFish with Pos :10,2, and  strength: 1894
+Shark with Pos :15,6, and  strength: 1670
+Shark with Pos :16,5, and  strength: 1576
+Shark with Pos :10,6, and  strength: 1467
+Shark with Pos :16,1, and  strength: 1466
+Shark with Pos :13,8, and  strength: 1437
+Shark with Pos :13,3, and  strength: 1273
+CatFish with Pos :13,1, and  strength: 1273
+Shark with Pos :15,1, and  strength: 1190
+Shark with Pos :19,8, and  strength: 1190
+Shark with Pos :11,5, and  strength: 1590
+Shark with Pos :18,2, and  strength: 988
+CatFish with Pos :19,6, and  strength: 985
+CatFish with Pos :19,5, and  strength: 949
+CatFish with Pos :15,2, and  strength: 890
+Shark with Pos :16,2, and  strength: 700
+Shark with Pos :17,7, and  strength: 700
+Shark with Pos :14,3, and  strength: 700
+CatFish with Pos :17,1, and  strength: 697
+CatFish with Pos :19,1, and  strength: 697
+CatFish with Pos :14,4, and  strength: 682
+CatFish with Pos :12,6, and  strength: 400
+---------------------------------------------------------------
+send failed with error: 10038
+Unable to connect to server! 
+Unable to connect to server! 
+Unable to connect to server! 
+Unable to connect to server! 
+---------------------------------------------------------------
+Fishes : 29
+CatFish with Pos :19,7, and  strength: 4212
+Shark with Pos :15,8, and  strength: 3904
+Shark with Pos :16,8, and  strength: 3382
+Shark with Pos :11,2, and  strength: 2620
+Shark with Pos :10,9, and  strength: 2503
+Shark with Pos :10,8, and  strength: 2130
+Shark with Pos :11,7, and  strength: 1928
+CatFish with Pos :10,2, and  strength: 1884
+Shark with Pos :15,6, and  strength: 1640
+Shark with Pos :11,5, and  strength: 1560
+Shark with Pos :16,5, and  strength: 1546
+Shark with Pos :10,6, and  strength: 1437
+Shark with Pos :16,1, and  strength: 1436
+Shark with Pos :13,8, and  strength: 1407
+CatFish with Pos :13,1, and  strength: 1263
+Shark with Pos :13,3, and  strength: 1243
+Shark with Pos :15,1, and  strength: 1160
+Shark with Pos :19,8, and  strength: 1160
+CatFish with Pos :19,6, and  strength: 975
+Shark with Pos :18,2, and  strength: 958
+CatFish with Pos :19,5, and  strength: 939
+CatFish with Pos :15,2, and  strength: 880
+CatFish with Pos :17,1, and  strength: 687
+CatFish with Pos :19,1, and  strength: 687
+CatFish with Pos :14,4, and  strength: 672
+Shark with Pos :16,2, and  strength: 670
+Shark with Pos :17,7, and  strength: 670
+Shark with Pos :14,3, and  strength: 670
+CatFish with Pos :12,6, and  strength: 390
+---------------------------------------------------------------
+CatFish ate Shark
+send failed with error: 10093
+---------------------------------------------------------------
+Fishes : 28
+CatFish with Pos :19,6, and  strength: 4202
+Shark with Pos :15,8, and  strength: 3874
+Shark with Pos :16,8, and  strength: 3352
+Shark with Pos :11,2, and  strength: 2590
+Shark with Pos :10,9, and  strength: 2473
+Shark with Pos :10,8, and  strength: 2100
+Shark with Pos :11,7, and  strength: 1898
+CatFish with Pos :10,3, and  strength: 1874
+Shark with Pos :15,6, and  strength: 1610
+Shark with Pos :11,5, and  strength: 1530
+Shark with Pos :16,5, and  strength: 1516
+Shark with Pos :10,6, and  strength: 1407
+Shark with Pos :16,1, and  strength: 1406
+Shark with Pos :13,8, and  strength: 1377
+CatFish with Pos :12,2, and  strength: 1253
+Shark with Pos :13,3, and  strength: 1213
+Shark with Pos :15,1, and  strength: 1130
+Shark with Pos :19,8, and  strength: 1130
+CatFish with Pos :19,5, and  strength: 965
+CatFish with Pos :18,6, and  strength: 929
+Shark with Pos :18,2, and  strength: 928
+CatFish with Pos :15,2, and  strength: 870
+CatFish with Pos :16,2, and  strength: 1317
+CatFish with Pos :19,2, and  strength: 677
+CatFish with Pos :14,5, and  strength: 662
+Shark with Pos :17,7, and  strength: 640
+Shark with Pos :14,3, and  strength: 640
+CatFish with Pos :13,6, and  strength: 380
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 28
+CatFish with Pos :19,6, and  strength: 4192
+Shark with Pos :15,8, and  strength: 3844
+Shark with Pos :16,8, and  strength: 3322
+Shark with Pos :11,2, and  strength: 2560
+Shark with Pos :10,9, and  strength: 2443
+Shark with Pos :10,8, and  strength: 2070
+Shark with Pos :11,7, and  strength: 1868
+CatFish with Pos :10,3, and  strength: 1864
+Shark with Pos :15,6, and  strength: 1580
+Shark with Pos :11,5, and  strength: 1500
+Shark with Pos :16,5, and  strength: 1486
+Shark with Pos :10,6, and  strength: 1377
+Shark with Pos :16,1, and  strength: 1376
+Shark with Pos :13,8, and  strength: 1347
+CatFish with Pos :16,2, and  strength: 1307
+CatFish with Pos :12,2, and  strength: 1243
+Shark with Pos :13,3, and  strength: 1183
+Shark with Pos :15,1, and  strength: 1100
+Shark with Pos :19,8, and  strength: 1100
+CatFish with Pos :19,5, and  strength: 955
+CatFish with Pos :18,6, and  strength: 919
+Shark with Pos :18,2, and  strength: 898
+CatFish with Pos :15,2, and  strength: 860
+CatFish with Pos :19,2, and  strength: 667
+CatFish with Pos :14,5, and  strength: 652
+Shark with Pos :17,7, and  strength: 610
+Shark with Pos :14,3, and  strength: 610
+CatFish with Pos :13,6, and  strength: 370
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 28
+CatFish with Pos :19,6, and  strength: 4182
+Shark with Pos :15,8, and  strength: 3814
+Shark with Pos :16,8, and  strength: 3292
+Shark with Pos :11,2, and  strength: 2530
+Shark with Pos :10,9, and  strength: 2413
+Shark with Pos :10,8, and  strength: 2040
+CatFish with Pos :10,3, and  strength: 1854
+Shark with Pos :11,7, and  strength: 1838
+Shark with Pos :15,6, and  strength: 1550
+Shark with Pos :11,5, and  strength: 1470
+Shark with Pos :16,5, and  strength: 1456
+Shark with Pos :10,6, and  strength: 1347
+Shark with Pos :16,1, and  strength: 1346
+Shark with Pos :13,8, and  strength: 1317
+CatFish with Pos :16,2, and  strength: 1297
+CatFish with Pos :12,2, and  strength: 1233
+Shark with Pos :13,3, and  strength: 1153
+Shark with Pos :15,1, and  strength: 1070
+Shark with Pos :19,8, and  strength: 1070
+CatFish with Pos :19,5, and  strength: 945
+CatFish with Pos :18,6, and  strength: 909
+Shark with Pos :18,2, and  strength: 868
+CatFish with Pos :15,2, and  strength: 850
+CatFish with Pos :19,2, and  strength: 657
+CatFish with Pos :14,5, and  strength: 642
+Shark with Pos :17,7, and  strength: 580
+Shark with Pos :14,3, and  strength: 580
+CatFish with Pos :13,6, and  strength: 360
+---------------------------------------------------------------
+Shark ate Shark
+CatFish ate Shark
+Shark ate CatFish
+---------------------------------------------------------------
+Fishes : 25
+CatFish with Pos :19,5, and  strength: 4172
+Shark with Pos :14,7, and  strength: 3784
+Shark with Pos :16,9, and  strength: 3262
+Shark with Pos :12,1, and  strength: 2500
+Shark with Pos :10,9, and  strength: 2383
+Shark with Pos :10,8, and  strength: 2010
+CatFish with Pos :10,4, and  strength: 1844
+Shark with Pos :10,7, and  strength: 1808
+Shark with Pos :14,5, and  strength: 1520
+Shark with Pos :12,4, and  strength: 1440
+Shark with Pos :16,6, and  strength: 1426
+Shark with Pos :10,6, and  strength: 1317
+Shark with Pos :16,2, and  strength: 2356
+Shark with Pos :14,9, and  strength: 1287
+CatFish with Pos :15,1, and  strength: 1287
+CatFish with Pos :12,3, and  strength: 2346
+Shark with Pos :19,7, and  strength: 1939
+CatFish with Pos :18,6, and  strength: 935
+CatFish with Pos :15,3, and  strength: 840
+Shark with Pos :19,2, and  strength: 838
+CatFish with Pos :18,2, and  strength: 647
+CatFish with Pos :15,4, and  strength: 632
+Shark with Pos :17,8, and  strength: 550
+Shark with Pos :13,4, and  strength: 550
+CatFish with Pos :14,6, and  strength: 350
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 2383 10,9 9,8
+[1;31mSENT:[0mCatFish 1844 10,4 9,5
+---------------------------------------------------------------
+- Warning : Positions must be a number, ignored.
+Fishes : 23
+CatFish with Pos :19,5, and  strength: 4162
+Shark with Pos :14,7, and  strength: 3754
+Shark with Pos :16,9, and  strength: 3232
+Shark with Pos :12,1, and  strength: 2470
+CatFish with Pos :12,3, and  strength: 2336
+Shark with Pos :16,2, and  strength: 2326
+Shark with Pos :10,8, and  strength: 1980
+Shark with Pos :19,7, and  strength: 1909
+Shark with Pos :10,7, and  strength: 1778
+Shark with Pos :14,5, and  strength: 1490
+Shark with Pos :12,4, and  strength: 1410
+Shark with Pos :16,6, and  strength: 1396
+Shark with Pos :10,6, and  strength: 1287
+CatFish with Pos :15,1, and  strength: 1277
+Shark with Pos :14,9, and  strength: 1257
+CatFish with Pos :18,6, and  strength: 925
+CatFish with Pos :15,3, and  strength: 830
+Shark with Pos :19,2, and  strength: 808
+CatFish with Pos :18,2, and  strength: 637
+CatFish with Pos :15,4, and  strength: 622
+[1;31mSENT:[0mOK
+[1;31mRECEIVED:[0mShark 2383 9,8CatFish
+Shark with Pos :13,4, and  strength: 520
+Shark with Pos :17,8, and  strength: 520
+SUCCESSFULLY MOVED :  Shark 2383 10,9 9,8CatFish 1844 10,4 9,5 
+CatFish with Pos :14,6, and  strength: 340
+---------------------------------------------------------------
+Shark ate Shark
+---------------------------------------------------------------
+Fishes : 23
+CatFish with Pos :19,5, and  strength: 4152
+Shark with Pos :14,7, and  strength: 3724
+Shark with Pos :16,9, and  strength: 3202
+Shark with Pos :12,1, and  strength: 2440
+CatFish with Pos :12,3, and  strength: 2326
+Shark with Pos :16,2, and  strength: 2296
+Shark with Pos :10,8, and  strength: 1950
+Shark with Pos :19,7, and  strength: 1879
+Shark with Pos :10,7, and  strength: 1748
+Shark with Pos :14,5, and  strength: 1460
+Shark with Pos :12,4, and  strength: 1380
+Shark with Pos :16,6, and  strength: 1366
+CatFish with Pos :15,1, and  strength: 1267
+Shark with Pos :10,5, and  strength: 2454
+Shark with Pos :14,9, and  strength: 1227
+CatFish with Pos :18,6, and  strength: 915
+CatFish with Pos :15,3, and  strength: 820
+Shark with Pos :19,2, and  strength: 778
+CatFish with Pos :18,2, and  strength: 627
+CatFish with Pos :15,4, and  strength: 612
+Shark with Pos :13,4, and  strength: 490
+Shark with Pos :17,8, and  strength: 490
+CatFish with Pos :14,6, and  strength: 330
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 2454 10,5 9,5
+Shark ate CatFish
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+[1;31mRECEIVED:[0mShark 2454 10,5
+Fishes : 22
+CatFish with Pos :18,6, and  strength: 4142
+Shark with Pos :14,7, and  strength: 3694
+Shark with Pos :16,9, and  strength: 3172
+Shark with Pos :12,1, and  strength: 2410
+CatFish with Pos :12,3, and  strength: 2316
+Shark with Pos :16,2, and  strength: 2266
+Shark with Pos :10,8, and  strength: 1920
+Shark with Pos :19,7, and  strength: 1849
+Shark with Pos :10,7, and  strength: 1718
+Shark with Pos :14,5, and  strength: 2032
+Shark with Pos :12,4, and  strength: 1350
+Shark with Pos :16,6, and  strength: 1336
+CatFish with Pos :14,2, and  strength: 1257
+Shark with Pos :14,9, and  strength: 1197
+CatFish with Pos :17,6, and  strength: 905
+CatFish with Pos :14,4, and  strength: 810
+Shark with Pos :19,2, and  strength: 748
+CatFish with Pos :17,2, and  strength: 617
+Shark with Pos :13,4, and  strength: 460
+Shark with Pos :17,8, and  strength: 460
+CatFish with Pos :13,7, and  strength: 320
+Shark with Pos :10,5, and  strength: 2454
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 22
+CatFish with Pos :18,6, and  strength: 4132
+Shark with Pos :14,7, and  strength: 3664
+Shark with Pos :16,9, and  strength: 3142
+Shark with Pos :10,5, and  strength: 2424
+Shark with Pos :12,1, and  strength: 2380
+CatFish with Pos :12,3, and  strength: 2306
+Shark with Pos :16,2, and  strength: 2236
+Shark with Pos :14,5, and  strength: 2002
+Shark with Pos :10,8, and  strength: 1890
+Shark with Pos :19,7, and  strength: 1819
+Shark with Pos :10,7, and  strength: 1688
+Shark with Pos :12,4, and  strength: 1320
+Shark with Pos :16,6, and  strength: 1306
+CatFish with Pos :14,2, and  strength: 1247
+Shark with Pos :14,9, and  strength: 1167
+CatFish with Pos :17,6, and  strength: 895
+CatFish with Pos :14,4, and  strength: 800
+Shark with Pos :19,2, and  strength: 718
+CatFish with Pos :17,2, and  strength: 607
+Shark with Pos :13,4, and  strength: 430
+Shark with Pos :17,8, and  strength: 430
+CatFish with Pos :13,7, and  strength: 310
+---------------------------------------------------------------
+CatFish ate Shark
+CatFish ate Shark
+---------------------------------------------------------------
+Fishes : 20
+CatFish with Pos :18,6, and  strength: 4122
+Shark with Pos :14,8, and  strength: 3634
+Shark with Pos :15,8, and  strength: 3112
+Shark with Pos :10,5, and  strength: 2394
+Shark with Pos :13,2, and  strength: 2350
+CatFish with Pos :12,3, and  strength: 3986
+Shark with Pos :17,1, and  strength: 2206
+Shark with Pos :13,4, and  strength: 1972
+Shark with Pos :10,8, and  strength: 1860
+Shark with Pos :18,7, and  strength: 1789
+Shark with Pos :11,6, and  strength: 1658
+Shark with Pos :16,6, and  strength: 1276
+CatFish with Pos :14,2, and  strength: 1237
+Shark with Pos :13,9, and  strength: 1137
+CatFish with Pos :17,6, and  strength: 885
+CatFish with Pos :14,4, and  strength: 790
+Shark with Pos :19,2, and  strength: 688
+CatFish with Pos :17,2, and  strength: 597
+Shark with Pos :18,9, and  strength: 400
+CatFish with Pos :13,7, and  strength: 300
+---------------------------------------------------------------
+Shark ate CatFish
+---------------------------------------------------------------
+Fishes : 19
+CatFish with Pos :17,5, and  strength: 4112
+CatFish with Pos :12,4, and  strength: 3976
+Shark with Pos :14,8, and  strength: 3604
+Shark with Pos :15,8, and  strength: 3082
+Shark with Pos :10,5, and  strength: 2364
+Shark with Pos :13,2, and  strength: 2320
+Shark with Pos :17,1, and  strength: 2176
+Shark with Pos :13,4, and  strength: 2722
+Shark with Pos :10,8, and  strength: 1830
+Shark with Pos :18,7, and  strength: 1759
+Shark with Pos :11,6, and  strength: 1628
+Shark with Pos :16,6, and  strength: 1246
+CatFish with Pos :13,3, and  strength: 1227
+Shark with Pos :13,9, and  strength: 1107
+CatFish with Pos :18,5, and  strength: 875
+Shark with Pos :19,2, and  strength: 658
+CatFish with Pos :16,2, and  strength: 587
+Shark with Pos :18,9, and  strength: 370
+CatFish with Pos :13,8, and  strength: 290
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 19
+CatFish with Pos :17,5, and  strength: 4102
+CatFish with Pos :12,4, and  strength: 3966
+Shark with Pos :14,8, and  strength: 3574
+Shark with Pos :15,8, and  strength: 3052
+Shark with Pos :13,4, and  strength: 2692
+Shark with Pos :10,5, and  strength: 2334
+Shark with Pos :13,2, and  strength: 2290
+Shark with Pos :17,1, and  strength: 2146
+Shark with Pos :10,8, and  strength: 1800
+Shark with Pos :18,7, and  strength: 1729
+Shark with Pos :11,6, and  strength: 1598
+CatFish with Pos :13,3, and  strength: 1217
+Shark with Pos :16,6, and  strength: 1216
+Shark with Pos :13,9, and  strength: 1077
+CatFish with Pos :18,5, and  strength: 865
+Shark with Pos :19,2, and  strength: 628
+CatFish with Pos :16,2, and  strength: 577
+Shark with Pos :18,9, and  strength: 340
+CatFish with Pos :13,8, and  strength: 280
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 2334 10,5 9,6
+---------------------------------------------------------------
+Fishes : 18
+CatFish with Pos :17,5, and  strength: 4092
+CatFish with Pos :12,4, and  strength: 3956
+Shark with Pos :14,8, and  strength: 3544
+Shark with Pos :15,8, and  strength: 3022
+Shark with Pos :13,4, and  strength: 2662
+Shark with Pos :13,2, and  strength: 2260
+Shark with Pos :17,1, and  strength: 2116
+Shark with Pos :10,8, and  strength: 1770
+Shark with Pos :18,7, and  strength: 1699
+Shark with Pos :11,6, and  strength: 1568
+CatFish with Pos :13,3, and  strength: 1207
+Shark with Pos :16,6, and  strength: 1186
+Shark with Pos :13,9, and  strength: 1047
+CatFish with Pos :18,5, and  strength: 855
+Shark with Pos :19,2, and  strength: 598
+CatFish with Pos :16,2, and  strength: 567
+Shark with Pos :18,9, and  strength: 310
+CatFish with Pos :13,8, and  strength: 270
+---------------------------------------------------------------
+CatFish ate Shark
+Shark ate CatFish
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+[1;31mRECEIVED:[0mShark 2334 10,5
+Fishes : 17
+CatFish with Pos :17,6, and  strength: 4082
+CatFish with Pos :13,4, and  strength: 6578
+Shark with Pos :14,8, and  strength: 3514
+Shark with Pos :15,8, and  strength: 2992
+Shark with Pos :13,2, and  strength: 3427
+Shark with Pos :17,1, and  strength: 2086
+Shark with Pos :10,8, and  strength: 1740
+Shark with Pos :18,7, and  strength: 1669
+Shark with Pos :11,6, and  strength: 1538
+Shark with Pos :16,6, and  strength: 1156
+Shark with Pos :13,9, and  strength: 1017
+CatFish with Pos :19,6, and  strength: 845
+Shark with Pos :19,2, and  strength: 568
+CatFish with Pos :16,2, and  strength: 557
+Shark with Pos :18,9, and  strength: 280
+CatFish with Pos :13,7, and  strength: 260
+Shark with Pos :10,5, and  strength: 2334
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 17
+CatFish with Pos :13,4, and  strength: 6568
+CatFish with Pos :17,6, and  strength: 4072
+Shark with Pos :15,9, and  strength: 3484
+Shark with Pos :12,1, and  strength: 3397
+Shark with Pos :16,9, and  strength: 2962
+Shark with Pos :10,5, and  strength: 2304
+Shark with Pos :17,2, and  strength: 2056
+Shark with Pos :10,9, and  strength: 1710
+Shark with Pos :19,7, and  strength: 1639
+Shark with Pos :12,7, and  strength: 1508
+Shark with Pos :15,7, and  strength: 1126
+Shark with Pos :14,9, and  strength: 987
+CatFish with Pos :19,6, and  strength: 835
+CatFish with Pos :16,2, and  strength: 547
+Shark with Pos :18,1, and  strength: 538
+Shark with Pos :18,9, and  strength: 250
+CatFish with Pos :13,7, and  strength: 250
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 17
+CatFish with Pos :13,4, and  strength: 6558
+CatFish with Pos :17,6, and  strength: 4062
+Shark with Pos :15,9, and  strength: 3454
+Shark with Pos :12,1, and  strength: 3367
+Shark with Pos :16,9, and  strength: 2932
+Shark with Pos :10,5, and  strength: 2274
+Shark with Pos :17,2, and  strength: 2026
+Shark with Pos :10,9, and  strength: 1680
+Shark with Pos :19,7, and  strength: 1609
+Shark with Pos :12,7, and  strength: 1478
+Shark with Pos :15,7, and  strength: 1096
+Shark with Pos :14,9, and  strength: 957
+CatFish with Pos :19,6, and  strength: 825
+CatFish with Pos :16,2, and  strength: 537
+Shark with Pos :18,1, and  strength: 508
+CatFish with Pos :13,7, and  strength: 240
+Shark with Pos :18,9, and  strength: 220
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 17
+CatFish with Pos :12,4, and  strength: 6548
+CatFish with Pos :16,6, and  strength: 4052
+Shark with Pos :15,9, and  strength: 3424
+Shark with Pos :12,1, and  strength: 3337
+Shark with Pos :16,9, and  strength: 2902
+Shark with Pos :10,5, and  strength: 2244
+Shark with Pos :17,2, and  strength: 1996
+Shark with Pos :10,9, and  strength: 1650
+Shark with Pos :19,7, and  strength: 1579
+Shark with Pos :12,7, and  strength: 1448
+Shark with Pos :15,7, and  strength: 1066
+Shark with Pos :14,9, and  strength: 927
+CatFish with Pos :18,5, and  strength: 815
+CatFish with Pos :16,3, and  strength: 527
+Shark with Pos :18,1, and  strength: 478
+CatFish with Pos :13,8, and  strength: 230
+Shark with Pos :18,9, and  strength: 190
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 17
+CatFish with Pos :12,4, and  strength: 6538
+CatFish with Pos :16,6, and  strength: 4042
+Shark with Pos :15,9, and  strength: 3394
+Shark with Pos :12,1, and  strength: 3307
+Shark with Pos :16,9, and  strength: 2872
+Shark with Pos :10,5, and  strength: 2214
+Shark with Pos :17,2, and  strength: 1966
+Shark with Pos :10,9, and  strength: 1620
+Shark with Pos :19,7, and  strength: 1549
+Shark with Pos :12,7, and  strength: 1418
+Shark with Pos :15,7, and  strength: 1036
+Shark with Pos :14,9, and  strength: 897
+CatFish with Pos :18,5, and  strength: 805
+CatFish with Pos :16,3, and  strength: 517
+Shark with Pos :18,1, and  strength: 448
+CatFish with Pos :13,8, and  strength: 220
+Shark with Pos :18,9, and  strength: 160
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 17
+CatFish with Pos :12,4, and  strength: 6528
+CatFish with Pos :16,6, and  strength: 4032
+Shark with Pos :15,9, and  strength: 3364
+Shark with Pos :12,1, and  strength: 3277
+Shark with Pos :16,9, and  strength: 2842
+Shark with Pos :10,5, and  strength: 2184
+Shark with Pos :17,2, and  strength: 1936
+Shark with Pos :10,9, and  strength: 1590
+Shark with Pos :19,7, and  strength: 1519
+Shark with Pos :12,7, and  strength: 1388
+Shark with Pos :15,7, and  strength: 1006
+Shark with Pos :14,9, and  strength: 867
+CatFish with Pos :18,5, and  strength: 795
+CatFish with Pos :16,3, and  strength: 507
+Shark with Pos :18,1, and  strength: 418
+CatFish with Pos :13,8, and  strength: 210
+Shark with Pos :18,9, and  strength: 130
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 17
+CatFish with Pos :11,5, and  strength: 6518
+CatFish with Pos :17,7, and  strength: 4022
+Shark with Pos :14,8, and  strength: 3334
+Shark with Pos :13,1, and  strength: 3247
+Shark with Pos :16,8, and  strength: 2812
+Shark with Pos :10,5, and  strength: 2154
+Shark with Pos :16,2, and  strength: 1906
+Shark with Pos :11,8, and  strength: 1560
+Shark with Pos :18,7, and  strength: 1489
+Shark with Pos :13,7, and  strength: 1358
+Shark with Pos :16,6, and  strength: 976
+Shark with Pos :13,9, and  strength: 837
+CatFish with Pos :19,5, and  strength: 785
+CatFish with Pos :17,4, and  strength: 497
+Shark with Pos :18,1, and  strength: 388
+CatFish with Pos :14,9, and  strength: 200
+Shark with Pos :18,8, and  strength: 100
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 17
+CatFish with Pos :11,5, and  strength: 6508
+CatFish with Pos :17,7, and  strength: 4012
+Shark with Pos :14,8, and  strength: 3304
+Shark with Pos :13,1, and  strength: 3217
+Shark with Pos :16,8, and  strength: 2782
+Shark with Pos :10,5, and  strength: 2124
+Shark with Pos :16,2, and  strength: 1876
+Shark with Pos :11,8, and  strength: 1530
+Shark with Pos :18,7, and  strength: 1459
+Shark with Pos :13,7, and  strength: 1328
+Shark with Pos :16,6, and  strength: 946
+Shark with Pos :13,9, and  strength: 807
+CatFish with Pos :19,5, and  strength: 775
+CatFish with Pos :17,4, and  strength: 487
+Shark with Pos :18,1, and  strength: 358
+CatFish with Pos :14,9, and  strength: 190
+Shark with Pos :18,8, and  strength: 70
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 17
+CatFish with Pos :11,5, and  strength: 6498
+CatFish with Pos :17,7, and  strength: 4002
+Shark with Pos :14,8, and  strength: 3274
+Shark with Pos :13,1, and  strength: 3187
+Shark with Pos :16,8, and  strength: 2752
+Shark with Pos :10,5, and  strength: 2094
+Shark with Pos :16,2, and  strength: 1846
+Shark with Pos :11,8, and  strength: 1500
+Shark with Pos :18,7, and  strength: 1429
+Shark with Pos :13,7, and  strength: 1298
+Shark with Pos :16,6, and  strength: 916
+Shark with Pos :13,9, and  strength: 777
+CatFish with Pos :19,5, and  strength: 765
+CatFish with Pos :17,4, and  strength: 477
+Shark with Pos :18,1, and  strength: 328
+CatFish with Pos :14,9, and  strength: 180
+Shark with Pos :18,8, and  strength: 40
+---------------------------------------------------------------
+CatFish ate Shark
+Shark ate CatFish
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+[1;31mRECEIVED:[0mShark 5564 10,9
+Fishes : 16
+CatFish with Pos :10,6, and  strength: 6488
+CatFish with Pos :18,7, and  strength: 5391
+Shark with Pos :14,8, and  strength: 3244
+Shark with Pos :13,1, and  strength: 3157
+Shark with Pos :16,8, and  strength: 2722
+Shark with Pos :10,9, and  strength: 5564
+Shark with Pos :16,2, and  strength: 1816
+Shark with Pos :11,8, and  strength: 1470
+Shark with Pos :13,7, and  strength: 1268
+Shark with Pos :16,6, and  strength: 886
+CatFish with Pos :18,6, and  strength: 755
+Shark with Pos :13,9, and  strength: 917
+CatFish with Pos :17,5, and  strength: 467
+Shark with Pos :18,1, and  strength: 298
+Shark with Pos :18,8, and  strength: 10
+Shark with Pos :10,9, and  strength: 5564
+---------------------------------------------------------------
+[1;31mSENT:[0mCatFish 6488 10,6 9,7
+Shark ate Shark
+---------------------------------------------------------------
+SUCCESSFULLY MOVED : OKCatFish 6488 10,6 9,7 
+Fishes : 13
+Shark with Pos :10,9, and  strength: 11008
+CatFish with Pos :18,7, and  strength: 5381
+Shark with Pos :14,8, and  strength: 3214
+Shark with Pos :13,1, and  strength: 3127
+Shark with Pos :16,8, and  strength: 2692
+Shark with Pos :16,2, and  strength: 1786
+Shark with Pos :11,8, and  strength: 1440
+Shark with Pos :13,7, and  strength: 1238
+Shark with Pos :13,9, and  strength: 887
+Shark with Pos :16,6, and  strength: 856
+CatFish with Pos :18,6, and  strength: 745
+CatFish with Pos :17,5, and  strength: 457
+Shark with Pos :18,1, and  strength: 268
+---------------------------------------------------------------
+Shark ate Shark
+---------------------------------------------------------------
+Fishes : 12
+Shark with Pos :10,9, and  strength: 10978
+CatFish with Pos :18,7, and  strength: 5371
+Shark with Pos :13,9, and  strength: 4041
+Shark with Pos :12,2, and  strength: 3097
+Shark with Pos :16,9, and  strength: 2662
+Shark with Pos :16,1, and  strength: 1756
+Shark with Pos :12,9, and  strength: 1410
+Shark with Pos :12,7, and  strength: 1208
+Shark with Pos :16,5, and  strength: 826
+CatFish with Pos :18,6, and  strength: 735
+CatFish with Pos :17,5, and  strength: 447
+Shark with Pos :19,1, and  strength: 238
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 12
+Shark with Pos :10,9, and  strength: 10948
+CatFish with Pos :19,8, and  strength: 5361
+Shark with Pos :13,9, and  strength: 4011
+Shark with Pos :12,2, and  strength: 3067
+Shark with Pos :16,9, and  strength: 2632
+Shark with Pos :16,1, and  strength: 1726
+Shark with Pos :12,9, and  strength: 1380
+Shark with Pos :12,7, and  strength: 1178
+Shark with Pos :16,5, and  strength: 796
+CatFish with Pos :17,6, and  strength: 725
+CatFish with Pos :18,4, and  strength: 437
+Shark with Pos :19,1, and  strength: 208
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 12
+Shark with Pos :10,9, and  strength: 10918
+CatFish with Pos :19,8, and  strength: 5351
+Shark with Pos :13,9, and  strength: 3981
+Shark with Pos :12,2, and  strength: 3037
+Shark with Pos :16,9, and  strength: 2602
+Shark with Pos :16,1, and  strength: 1696
+Shark with Pos :12,9, and  strength: 1350
+Shark with Pos :12,7, and  strength: 1148
+Shark with Pos :16,5, and  strength: 766
+CatFish with Pos :17,6, and  strength: 715
+CatFish with Pos :18,4, and  strength: 427
+Shark with Pos :19,1, and  strength: 178
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 12
+Shark with Pos :10,9, and  strength: 10888
+CatFish with Pos :19,8, and  strength: 5341
+Shark with Pos :13,9, and  strength: 3951
+Shark with Pos :12,2, and  strength: 3007
+Shark with Pos :16,9, and  strength: 2572
+Shark with Pos :16,1, and  strength: 1666
+Shark with Pos :12,9, and  strength: 1320
+Shark with Pos :12,7, and  strength: 1118
+Shark with Pos :16,5, and  strength: 736
+CatFish with Pos :17,6, and  strength: 705
+CatFish with Pos :18,4, and  strength: 417
+Shark with Pos :19,1, and  strength: 148
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 12
+Shark with Pos :10,9, and  strength: 10858
+CatFish with Pos :18,7, and  strength: 5331
+Shark with Pos :13,9, and  strength: 3921
+Shark with Pos :12,2, and  strength: 2977
+Shark with Pos :16,9, and  strength: 2542
+Shark with Pos :16,1, and  strength: 1636
+Shark with Pos :12,9, and  strength: 1290
+Shark with Pos :12,7, and  strength: 1088
+Shark with Pos :16,5, and  strength: 706
+CatFish with Pos :18,6, and  strength: 695
+CatFish with Pos :17,3, and  strength: 407
+Shark with Pos :19,1, and  strength: 118
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 12
+Shark with Pos :10,9, and  strength: 10828
+CatFish with Pos :18,7, and  strength: 5321
+Shark with Pos :12,8, and  strength: 3891
+Shark with Pos :12,1, and  strength: 2947
+Shark with Pos :17,9, and  strength: 2512
+Shark with Pos :17,1, and  strength: 1606
+Shark with Pos :11,9, and  strength: 1260
+Shark with Pos :11,6, and  strength: 1058
+CatFish with Pos :18,6, and  strength: 685
+Shark with Pos :17,5, and  strength: 676
+CatFish with Pos :17,3, and  strength: 397
+Shark with Pos :19,2, and  strength: 88
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 12
+Shark with Pos :10,9, and  strength: 10798
+CatFish with Pos :18,7, and  strength: 5311
+Shark with Pos :12,8, and  strength: 3861
+Shark with Pos :12,1, and  strength: 2917
+Shark with Pos :17,9, and  strength: 2482
+Shark with Pos :17,1, and  strength: 1576
+Shark with Pos :11,9, and  strength: 1230
+Shark with Pos :11,6, and  strength: 1028
+CatFish with Pos :18,6, and  strength: 675
+Shark with Pos :17,5, and  strength: 646
+CatFish with Pos :17,3, and  strength: 387
+Shark with Pos :19,2, and  strength: 58
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 12
+Shark with Pos :10,9, and  strength: 10768
+CatFish with Pos :19,6, and  strength: 5301
+Shark with Pos :12,8, and  strength: 3831
+Shark with Pos :12,1, and  strength: 2887
+Shark with Pos :17,9, and  strength: 2452
+Shark with Pos :17,1, and  strength: 1546
+Shark with Pos :11,9, and  strength: 1200
+Shark with Pos :11,6, and  strength: 998
+CatFish with Pos :17,7, and  strength: 665
+Shark with Pos :17,5, and  strength: 616
+CatFish with Pos :16,2, and  strength: 377
+Shark with Pos :19,2, and  strength: 28
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :10,8, and  strength: 10738
+CatFish with Pos :19,6, and  strength: 5291
+Shark with Pos :12,8, and  strength: 3801
+Shark with Pos :12,1, and  strength: 2857
+Shark with Pos :17,9, and  strength: 2422
+Shark with Pos :17,1, and  strength: 1516
+Shark with Pos :11,9, and  strength: 1170
+Shark with Pos :11,6, and  strength: 968
+CatFish with Pos :17,7, and  strength: 655
+Shark with Pos :17,5, and  strength: 586
+CatFish with Pos :16,2, and  strength: 367
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :10,8, and  strength: 10708
+CatFish with Pos :19,6, and  strength: 5281
+Shark with Pos :12,8, and  strength: 3771
+Shark with Pos :12,1, and  strength: 2827
+Shark with Pos :17,9, and  strength: 2392
+Shark with Pos :17,1, and  strength: 1486
+Shark with Pos :11,9, and  strength: 1140
+Shark with Pos :11,6, and  strength: 938
+CatFish with Pos :17,7, and  strength: 645
+Shark with Pos :17,5, and  strength: 556
+CatFish with Pos :16,2, and  strength: 357
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :10,8, and  strength: 10678
+CatFish with Pos :18,6, and  strength: 5271
+Shark with Pos :13,9, and  strength: 3741
+Shark with Pos :12,2, and  strength: 2797
+Shark with Pos :17,8, and  strength: 2362
+Shark with Pos :17,1, and  strength: 1456
+Shark with Pos :12,9, and  strength: 1110
+Shark with Pos :11,5, and  strength: 908
+CatFish with Pos :16,6, and  strength: 635
+Shark with Pos :17,5, and  strength: 526
+CatFish with Pos :16,3, and  strength: 347
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :10,8, and  strength: 10648
+CatFish with Pos :18,6, and  strength: 5261
+Shark with Pos :13,9, and  strength: 3711
+Shark with Pos :12,2, and  strength: 2767
+Shark with Pos :17,8, and  strength: 2332
+Shark with Pos :17,1, and  strength: 1426
+Shark with Pos :12,9, and  strength: 1080
+Shark with Pos :11,5, and  strength: 878
+CatFish with Pos :16,6, and  strength: 625
+Shark with Pos :17,5, and  strength: 496
+CatFish with Pos :16,3, and  strength: 337
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :10,8, and  strength: 10618
+CatFish with Pos :18,6, and  strength: 5251
+Shark with Pos :13,9, and  strength: 3681
+Shark with Pos :12,2, and  strength: 2737
+Shark with Pos :17,8, and  strength: 2302
+Shark with Pos :17,1, and  strength: 1396
+Shark with Pos :12,9, and  strength: 1050
+Shark with Pos :11,5, and  strength: 848
+CatFish with Pos :16,6, and  strength: 615
+Shark with Pos :17,5, and  strength: 466
+CatFish with Pos :16,3, and  strength: 327
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :11,8, and  strength: 10588
+CatFish with Pos :18,5, and  strength: 5241
+Shark with Pos :13,9, and  strength: 3651
+Shark with Pos :12,2, and  strength: 2707
+Shark with Pos :17,8, and  strength: 2272
+Shark with Pos :17,1, and  strength: 1366
+Shark with Pos :12,9, and  strength: 1020
+Shark with Pos :11,5, and  strength: 818
+CatFish with Pos :16,7, and  strength: 605
+Shark with Pos :17,5, and  strength: 436
+CatFish with Pos :15,3, and  strength: 317
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :11,8, and  strength: 10558
+CatFish with Pos :18,5, and  strength: 5231
+Shark with Pos :13,9, and  strength: 3621
+Shark with Pos :12,2, and  strength: 2677
+Shark with Pos :17,8, and  strength: 2242
+Shark with Pos :17,1, and  strength: 1336
+Shark with Pos :12,9, and  strength: 990
+Shark with Pos :11,5, and  strength: 788
+CatFish with Pos :16,7, and  strength: 595
+Shark with Pos :17,5, and  strength: 406
+CatFish with Pos :15,3, and  strength: 307
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :11,8, and  strength: 10528
+CatFish with Pos :18,5, and  strength: 5221
+Shark with Pos :12,8, and  strength: 3591
+Shark with Pos :13,2, and  strength: 2647
+Shark with Pos :17,8, and  strength: 2212
+Shark with Pos :18,1, and  strength: 1306
+Shark with Pos :13,8, and  strength: 960
+Shark with Pos :11,6, and  strength: 758
+CatFish with Pos :16,7, and  strength: 585
+Shark with Pos :16,5, and  strength: 376
+CatFish with Pos :15,3, and  strength: 297
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :11,8, and  strength: 10498
+CatFish with Pos :18,5, and  strength: 5211
+Shark with Pos :12,8, and  strength: 3561
+Shark with Pos :13,2, and  strength: 2617
+Shark with Pos :17,8, and  strength: 2182
+Shark with Pos :18,1, and  strength: 1276
+Shark with Pos :13,8, and  strength: 930
+Shark with Pos :11,6, and  strength: 728
+CatFish with Pos :15,6, and  strength: 575
+Shark with Pos :16,5, and  strength: 346
+CatFish with Pos :15,2, and  strength: 287
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :11,8, and  strength: 10468
+CatFish with Pos :18,5, and  strength: 5201
+Shark with Pos :12,8, and  strength: 3531
+Shark with Pos :13,2, and  strength: 2587
+Shark with Pos :17,8, and  strength: 2152
+Shark with Pos :18,1, and  strength: 1246
+Shark with Pos :13,8, and  strength: 900
+Shark with Pos :11,6, and  strength: 698
+CatFish with Pos :15,6, and  strength: 565
+Shark with Pos :16,5, and  strength: 316
+CatFish with Pos :15,2, and  strength: 277
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :11,8, and  strength: 10438
+CatFish with Pos :18,5, and  strength: 5191
+Shark with Pos :12,8, and  strength: 3501
+Shark with Pos :13,2, and  strength: 2557
+Shark with Pos :17,8, and  strength: 2122
+Shark with Pos :18,1, and  strength: 1216
+Shark with Pos :13,8, and  strength: 870
+Shark with Pos :11,6, and  strength: 668
+CatFish with Pos :15,6, and  strength: 555
+Shark with Pos :16,5, and  strength: 286
+CatFish with Pos :15,2, and  strength: 267
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :11,8, and  strength: 10408
+CatFish with Pos :18,5, and  strength: 5181
+Shark with Pos :12,8, and  strength: 3471
+Shark with Pos :13,2, and  strength: 2527
+Shark with Pos :17,8, and  strength: 2092
+Shark with Pos :18,1, and  strength: 1186
+Shark with Pos :13,8, and  strength: 840
+Shark with Pos :11,6, and  strength: 638
+CatFish with Pos :16,7, and  strength: 545
+CatFish with Pos :14,2, and  strength: 257
+Shark with Pos :16,5, and  strength: 256
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :11,8, and  strength: 10378
+CatFish with Pos :18,5, and  strength: 5171
+Shark with Pos :12,9, and  strength: 3441
+Shark with Pos :12,3, and  strength: 2497
+Shark with Pos :17,7, and  strength: 2062
+Shark with Pos :18,1, and  strength: 1156
+Shark with Pos :13,9, and  strength: 810
+Shark with Pos :10,5, and  strength: 608
+CatFish with Pos :16,7, and  strength: 535
+CatFish with Pos :14,2, and  strength: 247
+Shark with Pos :15,6, and  strength: 226
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 11
+Shark with Pos :11,8, and  strength: 10348
+CatFish with Pos :18,5, and  strength: 5161
+Shark with Pos :12,9, and  strength: 3411
+Shark with Pos :12,3, and  strength: 2467
+Shark with Pos :17,7, and  strength: 2032
+Shark with Pos :18,1, and  strength: 1126
+Shark with Pos :13,9, and  strength: 780
+Shark with Pos :10,5, and  strength: 578
+CatFish with Pos :16,7, and  strength: 525
+CatFish with Pos :14,2, and  strength: 237
+Shark with Pos :15,6, and  strength: 196
+---------------------------------------------------------------
+Shark ate CatFish
+---------------------------------------------------------------
+Fishes : 10
+Shark with Pos :11,8, and  strength: 10318
+CatFish with Pos :19,4, and  strength: 5151
+Shark with Pos :12,9, and  strength: 3381
+Shark with Pos :12,3, and  strength: 2437
+Shark with Pos :17,7, and  strength: 2517
+Shark with Pos :18,1, and  strength: 1096
+Shark with Pos :13,9, and  strength: 750
+Shark with Pos :10,5, and  strength: 548
+CatFish with Pos :15,2, and  strength: 227
+Shark with Pos :15,6, and  strength: 166
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 10
+Shark with Pos :11,7, and  strength: 10288
+CatFish with Pos :19,4, and  strength: 5141
+Shark with Pos :12,9, and  strength: 3351
+Shark with Pos :17,7, and  strength: 2487
+Shark with Pos :12,3, and  strength: 2407
+Shark with Pos :18,1, and  strength: 1066
+Shark with Pos :13,9, and  strength: 720
+Shark with Pos :10,5, and  strength: 518
+CatFish with Pos :15,2, and  strength: 217
+Shark with Pos :15,6, and  strength: 136
+---------------------------------------------------------------
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+Fishes : 10
+[1;31mRECEIVED:[0mCatFish 2828 10,8
+Shark with Pos :11,7, and  strength: 10258
+CatFish with Pos :19,4, and  strength: 5131
+Shark with Pos :12,9, and  strength: 3321
+Shark with Pos :17,7, and  strength: 2457
+Shark with Pos :12,3, and  strength: 2377
+Shark with Pos :18,1, and  strength: 1036
+Shark with Pos :13,9, and  strength: 690
+Shark with Pos :10,5, and  strength: 488
+CatFish with Pos :15,2, and  strength: 207
+Shark with Pos :15,6, and  strength: 106
+---------------------------------------------------------------
+Shark ate Shark
+---------------------------------------------------------------
+Fishes : 10
+Shark with Pos :11,7, and  strength: 10228
+CatFish with Pos :19,3, and  strength: 5121
+Shark with Pos :13,8, and  strength: 3951
+CatFish with Pos :10,8, and  strength: 2818
+Shark with Pos :17,7, and  strength: 2427
+Shark with Pos :13,2, and  strength: 2347
+Shark with Pos :17,1, and  strength: 1006
+Shark with Pos :10,4, and  strength: 458
+CatFish with Pos :16,3, and  strength: 197
+Shark with Pos :16,5, and  strength: 76
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 10
+Shark with Pos :11,7, and  strength: 10198
+CatFish with Pos :19,3, and  strength: 5111
+Shark with Pos :13,8, and  strength: 3921
+CatFish with Pos :10,8, and  strength: 2808
+Shark with Pos :17,7, and  strength: 2397
+Shark with Pos :13,2, and  strength: 2317
+Shark with Pos :17,1, and  strength: 976
+Shark with Pos :10,4, and  strength: 428
+CatFish with Pos :16,3, and  strength: 187
+Shark with Pos :16,5, and  strength: 46
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 10
+Shark with Pos :11,7, and  strength: 10168
+CatFish with Pos :19,3, and  strength: 5101
+Shark with Pos :13,8, and  strength: 3891
+CatFish with Pos :10,8, and  strength: 2798
+Shark with Pos :17,7, and  strength: 2367
+Shark with Pos :13,2, and  strength: 2287
+Shark with Pos :17,1, and  strength: 946
+Shark with Pos :10,4, and  strength: 398
+CatFish with Pos :16,3, and  strength: 177
+Shark with Pos :16,5, and  strength: 16
+---------------------------------------------------------------
+[1;31mSENT:[0mCatFish 2798 10,8 9,8
+---------------------------------------------------------------[1;31mSENT:[0m
+OK
+Fishes : 8
+[1;31mRECEIVED:[0mCatFish 2798 10,8
+Shark with Pos :12,8, and  strength: 10138
+CatFish with Pos :19,3, and  strength: 5091
+Shark with Pos :13,8, and  strength: 3861
+Shark with Pos :17,7, and  strength: 2337
+Shark with Pos :13,2, and  strength: 2257
+Shark with Pos :17,1, and  strength: 916
+Shark with Pos :10,4, and  strength: 368
+CatFish with Pos :17,4, and  strength: 167
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 9
+Shark with Pos :12,8, and  strength: 10108
+CatFish with Pos :19,3, and  strength: 5081
+Shark with Pos :13,8, and  strength: 3831
+CatFish with Pos :10,8, and  strength: 2788
+Shark with Pos :17,7, and  strength: 2307
+Shark with Pos :13,2, and  strength: 2227
+Shark with Pos :17,1, and  strength: 886
+Shark with Pos :10,4, and  strength: 338
+CatFish with Pos :17,4, and  strength: 157
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 9
+Shark with Pos :12,8, and  strength: 10078
+CatFish with Pos :19,3, and  strength: 5071
+Shark with Pos :12,9, and  strength: 3801
+CatFish with Pos :10,8, and  strength: 2778
+Shark with Pos :17,6, and  strength: 2277
+Shark with Pos :12,2, and  strength: 2197
+Shark with Pos :16,1, and  strength: 856
+Shark with Pos :11,3, and  strength: 308
+CatFish with Pos :17,4, and  strength: 147
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 9
+Shark with Pos :12,8, and  strength: 10048
+CatFish with Pos :19,2, and  strength: 5061
+Shark with Pos :12,9, and  strength: 3771
+CatFish with Pos :10,8, and  strength: 2768
+Shark with Pos :17,6, and  strength: 2247
+Shark with Pos :12,2, and  strength: 2167
+Shark with Pos :16,1, and  strength: 826
+Shark with Pos :11,3, and  strength: 278
+CatFish with Pos :16,5, and  strength: 137
+---------------------------------------------------------------
+[1;31mSENT:[0mCatFish 2768 10,8 9,8
+---------------------------------------------------------------
+Fishes : 8
+Shark with Pos :12,8, and  strength: 10018
+CatFish with Pos :19,2, and  strength: 5051
+Shark with Pos :12,9, and  strength: 3741
+Shark with Pos :17,6, and  strength: 2217
+Shark with Pos :12,2, and  strength: 2137
+Shark with Pos :16,1, and  strength: 796
+Shark with Pos :11,3, and  strength: 248
+CatFish with Pos :16,5, and  strength: 127
+---------------------------------------------------------------
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+[1;31mRECEIVED:[0mCatFish 2768 10,8
+Fishes : 9
+Shark with Pos :11,9, and  strength: 9988
+CatFish with Pos :19,2, and  strength: 5041
+Shark with Pos :12,9, and  strength: 3711
+Shark with Pos :17,6, and  strength: 2187
+Shark with Pos :12,2, and  strength: 2107
+Shark with Pos :16,1, and  strength: 766
+Shark with Pos :11,3, and  strength: 218
+CatFish with Pos :16,5, and  strength: 117
+CatFish with Pos :10,8, and  strength: 2768
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 9
+Shark with Pos :11,9, and  strength: 9958
+CatFish with Pos :18,2, and  strength: 5031
+Shark with Pos :12,9, and  strength: 3681
+CatFish with Pos :10,8, and  strength: 2758
+Shark with Pos :17,6, and  strength: 2157
+Shark with Pos :12,2, and  strength: 2077
+Shark with Pos :16,1, and  strength: 736
+Shark with Pos :11,3, and  strength: 188
+CatFish with Pos :16,6, and  strength: 107
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 9
+Shark with Pos :11,9, and  strength: 9928
+CatFish with Pos :18,2, and  strength: 5021
+Shark with Pos :13,9, and  strength: 3651
+CatFish with Pos :10,8, and  strength: 2748
+Shark with Pos :18,7, and  strength: 2127
+Shark with Pos :13,3, and  strength: 2047
+Shark with Pos :17,2, and  strength: 706
+Shark with Pos :12,2, and  strength: 158
+CatFish with Pos :16,6, and  strength: 97
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 9
+Shark with Pos :11,9, and  strength: 9898
+CatFish with Pos :18,2, and  strength: 5011
+Shark with Pos :13,9, and  strength: 3621
+CatFish with Pos :10,8, and  strength: 2738
+Shark with Pos :18,7, and  strength: 2097
+Shark with Pos :13,3, and  strength: 2017
+Shark with Pos :17,2, and  strength: 676
+Shark with Pos :12,2, and  strength: 128
+CatFish with Pos :16,6, and  strength: 87
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 9
+Shark with Pos :11,9, and  strength: 9868
+CatFish with Pos :19,1, and  strength: 5001
+Shark with Pos :13,9, and  strength: 3591
+CatFish with Pos :10,8, and  strength: 2728
+Shark with Pos :18,7, and  strength: 2067
+Shark with Pos :13,3, and  strength: 1987
+Shark with Pos :17,2, and  strength: 646
+Shark with Pos :12,2, and  strength: 98
+CatFish with Pos :16,7, and  strength: 77
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 9
+Shark with Pos :10,9, and  strength: 9838
+CatFish with Pos :19,1, and  strength: 4991
+Shark with Pos :13,9, and  strength: 3561
+CatFish with Pos :10,8, and  strength: 2718
+Shark with Pos :18,7, and  strength: 2037
+Shark with Pos :13,3, and  strength: 1957
+Shark with Pos :17,2, and  strength: 616
+Shark with Pos :12,2, and  strength: 68
+CatFish with Pos :16,7, and  strength: 67
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 9838 10,9 9,8
+---------------------------------------------------------------
+Fishes : 8
+CatFish with Pos :19,1, and  strength: 4981
+Shark with Pos :13,9, and  strength: 3531
+CatFish with Pos :11,8, and  strength: 2708
+Shark with Pos :18,7, and  strength: 2007
+Shark with Pos :13,3, and  strength: 1927
+Shark with Pos :17,2, and  strength: 586
+CatFish with Pos :16,7, and  strength: 57
+Shark with Pos :12,2, and  strength: 38
+---------------------------------------------------------------
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+Fishes : 8
+[1;31mRECEIVED:[0mShark 9838 10,9
+CatFish with Pos :19,2, and  strength: 4971
+Shark with Pos :13,9, and  strength: 3501
+CatFish with Pos :11,8, and  strength: 2698
+Shark with Pos :19,8, and  strength: 1977
+Shark with Pos :12,2, and  strength: 1897
+Shark with Pos :18,2, and  strength: 556
+CatFish with Pos :16,6, and  strength: 47
+Shark with Pos :11,1, and  strength: 8
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 8
+Shark with Pos :10,9, and  strength: 9808
+CatFish with Pos :19,2, and  strength: 4961
+Shark with Pos :13,9, and  strength: 3471
+CatFish with Pos :11,8, and  strength: 2688
+Shark with Pos :19,8, and  strength: 1947
+Shark with Pos :12,2, and  strength: 1867
+Shark with Pos :18,2, and  strength: 526
+CatFish with Pos :16,6, and  strength: 37
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 8
+Shark with Pos :10,9, and  strength: 9778
+CatFish with Pos :19,2, and  strength: 4951
+Shark with Pos :13,9, and  strength: 3441
+CatFish with Pos :11,9, and  strength: 2678
+Shark with Pos :19,8, and  strength: 1917
+Shark with Pos :12,2, and  strength: 1837
+Shark with Pos :18,2, and  strength: 496
+CatFish with Pos :16,6, and  strength: 27
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 8
+Shark with Pos :10,9, and  strength: 9748
+CatFish with Pos :19,1, and  strength: 4941
+Shark with Pos :13,9, and  strength: 3411
+CatFish with Pos :11,9, and  strength: 2668
+Shark with Pos :19,8, and  strength: 1887
+Shark with Pos :12,2, and  strength: 1807
+Shark with Pos :18,2, and  strength: 466
+CatFish with Pos :15,6, and  strength: 17
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 8
+Shark with Pos :10,9, and  strength: 9718
+CatFish with Pos :19,1, and  strength: 4931
+Shark with Pos :13,9, and  strength: 3381
+CatFish with Pos :11,9, and  strength: 2658
+Shark with Pos :19,8, and  strength: 1857
+Shark with Pos :12,2, and  strength: 1777
+Shark with Pos :18,2, and  strength: 436
+CatFish with Pos :15,6, and  strength: 7
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 7
+Shark with Pos :10,9, and  strength: 9688
+CatFish with Pos :19,1, and  strength: 4921
+Shark with Pos :12,9, and  strength: 3351
+CatFish with Pos :11,9, and  strength: 2648
+Shark with Pos :18,9, and  strength: 1827
+Shark with Pos :12,2, and  strength: 1747
+Shark with Pos :17,2, and  strength: 406
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 9688 10,9 9,9
+---------------------------------------------------------------
+Fishes : 6
+CatFish with Pos :18,1, and  strength: 4911
+Shark with Pos :12,9, and  strength: 3321
+CatFish with Pos :11,9, and  strength: 2638
+Shark with Pos :18,9, and  strength: 1797
+Shark with Pos :12,2, and  strength: 1717
+Shark with Pos :17,2, and  strength: 376
+---------------------------------------------------------------
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+Fishes : 6
+[1;31mRECEIVED:[0mShark 9688 10,9
+CatFish with Pos :18,1, and  strength: 4901
+Shark with Pos :12,9, and  strength: 3291
+CatFish with Pos :11,9, and  strength: 2628
+Shark with Pos :18,9, and  strength: 1767
+Shark with Pos :12,2, and  strength: 1687
+Shark with Pos :17,2, and  strength: 346
+---------------------------------------------------------------
+Shark ate CatFish
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 9658
+CatFish with Pos :18,1, and  strength: 4891
+Shark with Pos :12,9, and  strength: 5879
+Shark with Pos :18,9, and  strength: 1737
+Shark with Pos :12,2, and  strength: 1657
+Shark with Pos :17,2, and  strength: 316
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 9628
+Shark with Pos :12,9, and  strength: 5849
+CatFish with Pos :19,1, and  strength: 4881
+Shark with Pos :18,9, and  strength: 1707
+Shark with Pos :12,2, and  strength: 1627
+Shark with Pos :17,2, and  strength: 286
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 9598
+Shark with Pos :11,8, and  strength: 5819
+CatFish with Pos :19,1, and  strength: 4871
+Shark with Pos :17,9, and  strength: 1677
+Shark with Pos :11,1, and  strength: 1597
+Shark with Pos :16,1, and  strength: 256
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 9568
+Shark with Pos :11,8, and  strength: 5789
+CatFish with Pos :19,1, and  strength: 4861
+Shark with Pos :17,9, and  strength: 1647
+Shark with Pos :11,1, and  strength: 1567
+Shark with Pos :16,1, and  strength: 226
+---------------------------------------------------------------
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+[1;31mRECEIVED:[0mShark 19196 10,9
+Fishes : 7
+Shark with Pos :10,9, and  strength: 19196
+Shark with Pos :11,8, and  strength: 5759
+CatFish with Pos :19,1, and  strength: 4851
+Shark with Pos :17,9, and  strength: 1617
+Shark with Pos :11,1, and  strength: 1537
+Shark with Pos :16,1, and  strength: 196
+Shark with Pos :10,9, and  strength: 19196
+---------------------------------------------------------------
+Shark ate Shark
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 38272
+Shark with Pos :11,8, and  strength: 5729
+CatFish with Pos :19,1, and  strength: 4841
+Shark with Pos :17,9, and  strength: 1587
+Shark with Pos :11,1, and  strength: 1507
+Shark with Pos :16,1, and  strength: 166
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 38242
+Shark with Pos :11,8, and  strength: 5699
+CatFish with Pos :19,1, and  strength: 4831
+Shark with Pos :17,9, and  strength: 1557
+Shark with Pos :11,1, and  strength: 1477
+Shark with Pos :16,1, and  strength: 136
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 38212
+Shark with Pos :11,7, and  strength: 5669
+CatFish with Pos :19,1, and  strength: 4821
+Shark with Pos :18,9, and  strength: 1527
+Shark with Pos :12,1, and  strength: 1447
+Shark with Pos :15,2, and  strength: 106
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 38182
+Shark with Pos :11,7, and  strength: 5639
+CatFish with Pos :19,1, and  strength: 4811
+Shark with Pos :18,9, and  strength: 1497
+Shark with Pos :12,1, and  strength: 1417
+Shark with Pos :15,2, and  strength: 76
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 38152
+Shark with Pos :11,7, and  strength: 5609
+CatFish with Pos :19,1, and  strength: 4801
+Shark with Pos :18,9, and  strength: 1467
+Shark with Pos :12,1, and  strength: 1387
+Shark with Pos :15,2, and  strength: 46
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 6
+Shark with Pos :10,9, and  strength: 38122
+Shark with Pos :11,7, and  strength: 5579
+CatFish with Pos :19,2, and  strength: 4791
+Shark with Pos :18,9, and  strength: 1437
+Shark with Pos :12,1, and  strength: 1357
+Shark with Pos :15,2, and  strength: 16
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,9, and  strength: 38092
+Shark with Pos :11,7, and  strength: 5549
+CatFish with Pos :19,2, and  strength: 4781
+Shark with Pos :18,9, and  strength: 1407
+Shark with Pos :12,1, and  strength: 1327
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,9, and  strength: 38062
+Shark with Pos :12,7, and  strength: 5519
+CatFish with Pos :19,2, and  strength: 4771
+Shark with Pos :17,9, and  strength: 1377
+Shark with Pos :12,1, and  strength: 1297
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :11,9, and  strength: 38032
+Shark with Pos :12,7, and  strength: 5489
+CatFish with Pos :19,3, and  strength: 4761
+Shark with Pos :17,9, and  strength: 1347
+Shark with Pos :12,1, and  strength: 1267
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :11,9, and  strength: 38002
+Shark with Pos :12,7, and  strength: 5459
+CatFish with Pos :19,3, and  strength: 4751
+Shark with Pos :17,9, and  strength: 1317
+Shark with Pos :12,1, and  strength: 1237
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :11,9, and  strength: 37972
+Shark with Pos :12,7, and  strength: 5429
+CatFish with Pos :19,3, and  strength: 4741
+Shark with Pos :17,9, and  strength: 1287
+Shark with Pos :12,1, and  strength: 1207
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :11,9, and  strength: 37942
+Shark with Pos :12,7, and  strength: 5399
+CatFish with Pos :18,4, and  strength: 4731
+Shark with Pos :17,9, and  strength: 1257
+Shark with Pos :12,1, and  strength: 1177
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :11,9, and  strength: 37912
+Shark with Pos :12,6, and  strength: 5369
+CatFish with Pos :18,4, and  strength: 4721
+Shark with Pos :16,8, and  strength: 1227
+Shark with Pos :11,2, and  strength: 1147
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37882
+Shark with Pos :12,6, and  strength: 5339
+CatFish with Pos :18,4, and  strength: 4711
+Shark with Pos :16,8, and  strength: 1197
+Shark with Pos :11,2, and  strength: 1117
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 37882 10,8 9,9
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+[1;31mRECEIVED:[0mShark 37882 10,8
+Fishes : 5
+Shark with Pos :12,6, and  strength: 5309
+CatFish with Pos :17,4, and  strength: 4701
+Shark with Pos :16,8, and  strength: 1167
+Shark with Pos :11,2, and  strength: 1087
+Shark with Pos :10,8, and  strength: 37882
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37852
+Shark with Pos :12,6, and  strength: 5279
+CatFish with Pos :17,4, and  strength: 4691
+Shark with Pos :16,8, and  strength: 1137
+Shark with Pos :11,2, and  strength: 1057
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37822
+Shark with Pos :12,6, and  strength: 5249
+CatFish with Pos :17,4, and  strength: 4681
+Shark with Pos :16,8, and  strength: 1107
+Shark with Pos :11,2, and  strength: 1027
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37792
+Shark with Pos :11,6, and  strength: 5219
+CatFish with Pos :17,5, and  strength: 4671
+Shark with Pos :15,7, and  strength: 1077
+Shark with Pos :11,2, and  strength: 997
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37762
+Shark with Pos :11,6, and  strength: 5189
+CatFish with Pos :17,5, and  strength: 4661
+Shark with Pos :15,7, and  strength: 1047
+Shark with Pos :11,2, and  strength: 967
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37732
+Shark with Pos :11,6, and  strength: 5159
+CatFish with Pos :17,5, and  strength: 4651
+Shark with Pos :15,7, and  strength: 1017
+Shark with Pos :11,2, and  strength: 937
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 37732 10,8 9,9
+---------------------------------------------------------------
+Fishes : 4
+Shark with Pos :11,6, and  strength: 5129
+CatFish with Pos :17,6, and  strength: 4641
+Shark with Pos :15,7, and  strength: 987
+Shark with Pos :11,2, and  strength: 907
+---------------------------------------------------------------
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+[1;31mRECEIVED:[0mShark 37732 10,8
+Fishes : 5
+Shark with Pos :11,6, and  strength: 5099
+CatFish with Pos :17,6, and  strength: 4631
+Shark with Pos :15,7, and  strength: 957
+Shark with Pos :11,2, and  strength: 877
+Shark with Pos :10,8, and  strength: 37732
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37702
+Shark with Pos :10,5, and  strength: 5069
+CatFish with Pos :17,6, and  strength: 4621
+Shark with Pos :16,7, and  strength: 927
+Shark with Pos :11,3, and  strength: 847
+---------------------------------------------------------------
+Warning : Fish name or strength incorect, ignore.
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37672
+Shark with Pos :10,5, and  strength: 5039
+CatFish with Pos :18,7, and  strength: 4611
+Shark with Pos :16,7, and  strength: 897
+Shark with Pos :11,3, and  strength: 817
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37642
+Shark with Pos :10,5, and  strength: 5009
+CatFish with Pos :18,7, and  strength: 4601
+Shark with Pos :16,7, and  strength: 867
+Shark with Pos :11,3, and  strength: 787
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37612
+Shark with Pos :10,5, and  strength: 4979
+CatFish with Pos :18,7, and  strength: 4591
+Shark with Pos :16,7, and  strength: 837
+Shark with Pos :11,3, and  strength: 757
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 5
+Shark with Pos :10,8, and  strength: 37582
+Shark with Pos :10,5, and  strength: 4949
+CatFish with Pos :19,7, and  strength: 4581
+Shark with Pos :16,7, and  strength: 807
+Shark with Pos :11,3, and  strength: 727
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 37582 10,8 9,7
+Shark ate Shark
+[1;31mSENT:[0mOK
+---------------------------------------------------------------
+[1;31mRECEIVED:[0mShark 37582 10,8
+Fishes : 4
+Shark with Pos :10,4, and  strength: 5616
+CatFish with Pos :19,7, and  strength: 4571
+Shark with Pos :15,6, and  strength: 777
+Shark with Pos :10,8, and  strength: 37582
+---------------------------------------------------------------
+[1;31mSENT:[0mShark 5616 10,4 9,5
+---------------------------------------------------------------
+SUCCESSFULLY MOVED : OKShark 5616 10,4 9,5 
+Fishes : 3
+Shark with Pos :10,8, and  strength: 37552
+CatFish with Pos :19,7, and  strength: 4561
+Shark with Pos :15,6, and  strength: 747
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 3
+Shark with Pos :10,8, and  strength: 37522
+CatFish with Pos :18,7, and  strength: 4551
+Shark with Pos :15,6, and  strength: 717
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 3
+Shark with Pos :10,8, and  strength: 37492
+CatFish with Pos :18,7, and  strength: 4541
+Shark with Pos :15,6, and  strength: 687
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 3
+Shark with Pos :10,8, and  strength: 37462
+CatFish with Pos :18,7, and  strength: 4531
+Shark with Pos :15,6, and  strength: 657
+---------------------------------------------------------------
+send failed with error: 10054
+---------------------------------------------------------------
+Fishes : 3
+Shark with Pos :10,8, and  strength: 37432
+CatFish with Pos :19,6, and  strength: 4521
+Shark with Pos :15,7, and  strength: 627
+---------------------------------------------------------------
+send failed with error: 10038
+Unable to connect to server! 
+send failed with error: 10093
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,6, and  strength: 4511
+Shark with Pos :15,7, and  strength: 597
+---------------------------------------------------------------
+send failed with error: 10093
+Unable to connect to server! 
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,6, and  strength: 4501
+Shark with Pos :15,7, and  strength: 567
+---------------------------------------------------------------
+send failed with error: 10093
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,7, and  strength: 4491
+Shark with Pos :15,7, and  strength: 537
+---------------------------------------------------------------
+send failed with error: 10038
+Unable to connect to server! 
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,7, and  strength: 4481
+Shark with Pos :15,7, and  strength: 507
+---------------------------------------------------------------
+send failed with error: 10038
+Unable to connect to server! 
+Unable to connect to server! 
+Unable to connect to server! 
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,7, and  strength: 4471
+Shark with Pos :15,8, and  strength: 477
+---------------------------------------------------------------
+send failed with error: 10093
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :18,6, and  strength: 4461
+Shark with Pos :15,8, and  strength: 447
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :18,6, and  strength: 4451
+Shark with Pos :15,8, and  strength: 417
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :18,6, and  strength: 4441
+Shark with Pos :15,8, and  strength: 387
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :18,5, and  strength: 4431
+Shark with Pos :15,8, and  strength: 357
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :18,5, and  strength: 4421
+Shark with Pos :15,9, and  strength: 327
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :18,5, and  strength: 4411
+Shark with Pos :15,9, and  strength: 297
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,4, and  strength: 4401
+Shark with Pos :15,9, and  strength: 267
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,4, and  strength: 4391
+Shark with Pos :15,9, and  strength: 237
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,4, and  strength: 4381
+Shark with Pos :15,9, and  strength: 207
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,5, and  strength: 4371
+Shark with Pos :14,9, and  strength: 177
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,5, and  strength: 4361
+Shark with Pos :14,9, and  strength: 147
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,5, and  strength: 4351
+Shark with Pos :14,9, and  strength: 117
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,5, and  strength: 4341
+Shark with Pos :14,9, and  strength: 87
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,5, and  strength: 4331
+Shark with Pos :14,9, and  strength: 57
+---------------------------------------------------------------
+---------------------------------------------------------------
+Fishes : 2
+CatFish with Pos :19,5, and  strength: 4321
+Shark with Pos :13,9, and  strength: 27
+---------------------------------------------------------------
+---------------------Game over after 141 steps--------------------------
+---------------------------------------------------------------
+Fishes : 1
+CatFish with Pos :19,4, and  strength: 4311
+---------------------------------------------------------------

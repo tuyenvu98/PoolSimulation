@@ -1,0 +1,8 @@
+﻿  main.cpp
+D:\Test\Server\Server\main.cpp(92,23): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Server\Server\main.cpp(106,23): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Server\Server\main.cpp(212,27): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Server\Server\main.cpp(262,40): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Server\Server\main.cpp(308,35): warning C4018: '<': signed/unsigned mismatch
+D:\Test\Server\Server\main.cpp(126,11): warning C4101: 'Flags': unreferenced local variable
+  Server.vcxproj -> D:\Test\Server\Debug\Server.exe
